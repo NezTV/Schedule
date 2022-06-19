@@ -3,6 +3,9 @@
   <channel id="AGRtv.play.nezlabs.ml">
     <display-name>AGRtv</display-name>
   </channel>
+  <channel id="WMSC.play.nezlabs.ml">
+    <display-name></display-name>
+  </channel>
   <programme start="20220618000000 +0000" stop="20220618001000 +0000" channel="AGRtv.play.nezlabs.ml">
     <title lang="en">(OUTDATED) How to set up EKA2L1 + Gameplay (Symbian on Android, PC, Linux and macOS!)</title>
     <desc lang="en">Hello guys, and I'm gonna teach you how to set up EKA2L1. Let's go!</desc>
@@ -27,8 +30,140 @@
     <title lang="en">Welcome to the test broadcast!</title>
     <desc lang="en">NA</desc>
   </programme>
-  <programme start="20220619071300 +0000" stop="20220619072300 +0000" channel="AGRtv.play.nezlabs.ml">
+  <programme start="20220619071300 +0000" stop="20220619000000 +0000" channel="AGRtv.play.nezlabs.ml">
     <title lang="en">(OUTDATED) How to set up EKA2L1 + Gameplay (Symbian on Android, PC, Linux and macOS!)</title>
     <desc lang="en">Hello guys, and I'm gonna teach you how to set up EKA2L1. Let's go!</desc>
+  </programme>
+  <programme start="20220619000000 +0000" stop="20220619000600 +0000" channel="WMSC.play.nezlabs.ml">
+    <title lang="en">My hacked Wii Menu</title>
+    <desc lang="en">The year is 2010 and this is my hacked Nintendo Wii console!</desc>
+  </programme>
+  <programme start="20220619000600 +0000" stop="20220619001200 +0000" channel="WMSC.play.nezlabs.ml">
+    <title lang="en">My hacked Wii Menu</title>
+    <desc lang="en">The year is 2010 and this is my hacked Nintendo Wii console!</desc>
+  </programme>
+  <programme start="20220619001200 +0000" stop="20220619001800 +0000" channel="WMSC.play.nezlabs.ml">
+    <title lang="en">My hacked Wii Menu</title>
+    <desc lang="en">The year is 2010 and this is my hacked Nintendo Wii console!</desc>
+  </programme>
+  <programme start="20220619001800 +0000" stop="20220619002400 +0000" channel="WMSC.play.nezlabs.ml">
+    <title lang="en">My hacked Wii Menu</title>
+    <desc lang="en">The year is 2010 and this is my hacked Nintendo Wii console!</desc>
+  </programme>
+  <programme start="20220619002400 +0000" stop="20220619003000 +0000" channel="WMSC.play.nezlabs.ml">
+    <title lang="en">My hacked Wii Menu</title>
+    <desc lang="en">The year is 2010 and this is my hacked Nintendo Wii console!</desc>
+  </programme>
+  <programme start="20220619003000 +0000" stop="20220619003600 +0000" channel="WMSC.play.nezlabs.ml">
+    <title lang="en">My hacked Wii Menu</title>
+    <desc lang="en">The year is 2010 and this is my hacked Nintendo Wii console!</desc>
+  </programme>
+  <programme start="20220619003600 +0000" stop="20220619004200 +0000" channel="WMSC.play.nezlabs.ml">
+    <title lang="en">My hacked Wii Menu</title>
+    <desc lang="en">The year is 2010 and this is my hacked Nintendo Wii console!</desc>
+  </programme>
+  <programme start="20220619004200 +0000" stop="20220619004800 +0000" channel="WMSC.play.nezlabs.ml">
+    <title lang="en">My hacked Wii Menu</title>
+    <desc lang="en">The year is 2010 and this is my hacked Nintendo Wii console!</desc>
+  </programme>
+  <programme start="20220619004800 +0000" stop="20220619005400 +0000" channel="WMSC.play.nezlabs.ml">
+    <title lang="en">My hacked Wii Menu</title>
+    <desc lang="en">The year is 2010 and this is my hacked Nintendo Wii console!</desc>
+  </programme>
+  <programme start="20220619005400 +0000" stop="20220619010000 +0000" channel="WMSC.play.nezlabs.ml">
+    <title lang="en">My hacked Wii Menu</title>
+    <desc lang="en">The year is 2010 and this is my hacked Nintendo Wii console!</desc>
+  </programme>
+  <programme start="20220619010000 +0000" stop="20220619010500 +0000" channel="WMSC.play.nezlabs.ml">
+    <title lang="en">My Wii Menu - 19.02.2022</title>
+    <desc lang="en">This is my Wii Menu. Made a NAND Backup from my real Wii and used in Dolphin to record it. I don't have a capture card. If you want one of these WADs, leave a comment!</desc>
+  </programme>
+  <programme start="20220619010500 +0000" stop="20220619011400 +0000" channel="WMSC.play.nezlabs.ml">
+    <title lang="en">My Wii Menu - 25.12.2021</title>
+    <desc lang="en">This is my Wii Menu. Made a NAND Backup from my real Wii and used in Dolphin to record it. I don't have a capture card.</desc>
+  </programme>
+  <programme start="20220619011400 +0000" stop="20220619012100 +0000" channel="WMSC.play.nezlabs.ml">
+    <title lang="en">My Wii Menu - 01.09.2021</title>
+    <desc lang="en">This is my Wii Menu. Made a NAND Backup from my real Wii and used Dolphin to record it. I don't have a capture card.</desc>
+  </programme>
+  <programme start="20220619012100 +0000" stop="20220619012600 +0000" channel="WMSC.play.nezlabs.ml">
+    <title lang="en">My Wii Menu - 19.02.2022</title>
+    <desc lang="en">This is my Wii Menu. Made a NAND Backup from my real Wii and used in Dolphin to record it. I don't have a capture card. If you want one of these WADs, leave a comment!</desc>
+  </programme>
+  <programme start="20220619012600 +0000" stop="20220619013500 +0000" channel="WMSC.play.nezlabs.ml">
+    <title lang="en">My Wii Menu - 25.12.2021</title>
+    <desc lang="en">This is my Wii Menu. Made a NAND Backup from my real Wii and used in Dolphin to record it. I don't have a capture card.</desc>
+  </programme>
+  <programme start="20220619013500 +0000" stop="20220619014200 +0000" channel="WMSC.play.nezlabs.ml">
+    <title lang="en">My Wii Menu - 01.09.2021</title>
+    <desc lang="en">This is my Wii Menu. Made a NAND Backup from my real Wii and used Dolphin to record it. I don't have a capture card.</desc>
+  </programme>
+  <programme start="20220619014200 +0000" stop="20220619014700 +0000" channel="WMSC.play.nezlabs.ml">
+    <title lang="en">My Wii Menu - 19.02.2022</title>
+    <desc lang="en">This is my Wii Menu. Made a NAND Backup from my real Wii and used in Dolphin to record it. I don't have a capture card. If you want one of these WADs, leave a comment!</desc>
+  </programme>
+  <programme start="20220619014700 +0000" stop="20220619015600 +0000" channel="WMSC.play.nezlabs.ml">
+    <title lang="en">My Wii Menu - 25.12.2021</title>
+    <desc lang="en">This is my Wii Menu. Made a NAND Backup from my real Wii and used in Dolphin to record it. I don't have a capture card.</desc>
+  </programme>
+  <programme start="20220619015600 +0000" stop="20220619084500 +0000" channel="WMSC.play.nezlabs.ml">
+    <title lang="en">My Wii Menu - 01.09.2021</title>
+    <desc lang="en">This is my Wii Menu. Made a NAND Backup from my real Wii and used Dolphin to record it. I don't have a capture card.</desc>
+  </programme>
+  <programme start="20220619084500 +0000" stop="20220619085200 +0000" channel="WMSC.play.nezlabs.ml">
+    <title lang="en">The year is 2009 and this is my hacked Wii Menu!</title>
+    <desc lang="en">I recorded this in 2021 of course, just wanted a nice title :)</desc>
+  </programme>
+  <programme start="20220619085200 +0000" stop="20220619085800 +0000" channel="WMSC.play.nezlabs.ml">
+    <title lang="en">My hacked Wii Menu</title>
+    <desc lang="en">The year is 2010 and this is my hacked Nintendo Wii console!</desc>
+  </programme>
+  <programme start="20220619085800 +0000" stop="20220619090300 +0000" channel="WMSC.play.nezlabs.ml">
+    <title lang="en">My Wii Menu - 19.02.2022</title>
+    <desc lang="en">This is my Wii Menu. Made a NAND Backup from my real Wii and used in Dolphin to record it. I don't have a capture card. If you want one of these WADs, leave a comment!</desc>
+  </programme>
+  <programme start="20220619090300 +0000" stop="20220619090800 +0000" channel="WMSC.play.nezlabs.ml">
+    <title lang="en">My Wii Menu - 19.02.2022</title>
+    <desc lang="en">This is my Wii Menu. Made a NAND Backup from my real Wii and used in Dolphin to record it. I don't have a capture card. If you want one of these WADs, leave a comment!</desc>
+  </programme>
+  <programme start="20220619090800 +0000" stop="20220619091700 +0000" channel="WMSC.play.nezlabs.ml">
+    <title lang="en">My Wii Menu - 25.12.2021</title>
+    <desc lang="en">This is my Wii Menu. Made a NAND Backup from my real Wii and used in Dolphin to record it. I don't have a capture card.</desc>
+  </programme>
+  <programme start="20220619091700 +0000" stop="20220619092600 +0000" channel="WMSC.play.nezlabs.ml">
+    <title lang="en">My Wii Menu - 25.12.2021</title>
+    <desc lang="en">This is my Wii Menu. Made a NAND Backup from my real Wii and used in Dolphin to record it. I don't have a capture card.</desc>
+  </programme>
+  <programme start="20220619092600 +0000" stop="20220619093500 +0000" channel="WMSC.play.nezlabs.ml">
+    <title lang="en">My Wii Menu - 25.12.2021</title>
+    <desc lang="en">This is my Wii Menu. Made a NAND Backup from my real Wii and used in Dolphin to record it. I don't have a capture card.</desc>
+  </programme>
+  <programme start="20220619093500 +0000" stop="20220619094400 +0000" channel="WMSC.play.nezlabs.ml">
+    <title lang="en">My Wii Menu - 25.12.2021</title>
+    <desc lang="en">This is my Wii Menu. Made a NAND Backup from my real Wii and used in Dolphin to record it. I don't have a capture card.</desc>
+  </programme>
+  <programme start="20220619094400 +0000" stop="20220619095100 +0000" channel="WMSC.play.nezlabs.ml">
+    <title lang="en">My Wii Menu - 01.09.2021</title>
+    <desc lang="en">This is my Wii Menu. Made a NAND Backup from my real Wii and used Dolphin to record it. I don't have a capture card.</desc>
+  </programme>
+  <programme start="20220619095100 +0000" stop="20220619095800 +0000" channel="WMSC.play.nezlabs.ml">
+    <title lang="en">The year is 2009 and this is my hacked Wii Menu!</title>
+    <desc lang="en">I recorded this in 2021 of course, just wanted a nice title :)</desc>
+  </programme>
+  <programme start="20220619095800 +0000" stop="20220619100700 +0000" channel="WMSC.play.nezlabs.ml">
+    <title lang="en">My Wii Menu - 25.12.2021</title>
+    <desc lang="en">This is my Wii Menu. Made a NAND Backup from my real Wii and used in Dolphin to record it. I don't have a capture card.</desc>
+  </programme>
+  <programme start="20220619100700 +0000" stop="20220619101300 +0000" channel="WMSC.play.nezlabs.ml">
+    <title lang="en">My hacked Wii Menu</title>
+    <desc lang="en">The year is 2010 and this is my hacked Nintendo Wii console!</desc>
+  </programme>
+  <programme start="20220619101300 +0000" stop="20220619101800 +0000" channel="WMSC.play.nezlabs.ml">
+    <title lang="en">My Wii Menu - 19.02.2022</title>
+    <desc lang="en">This is my Wii Menu. Made a NAND Backup from my real Wii and used in Dolphin to record it. I don't have a capture card. If you want one of these WADs, leave a comment!</desc>
+  </programme>
+  <programme start="20220619101800 +0000" stop="20220619102500 +0000" channel="WMSC.play.nezlabs.ml">
+    <title lang="en">The year is 2009 and this is my hacked Wii Menu!</title>
+    <desc lang="en">I recorded this in 2021 of course, just wanted a nice title :)</desc>
   </programme>
 </tv>
