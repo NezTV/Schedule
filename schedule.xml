@@ -27,4 +27,8 @@
     <title lang="en">Welcome to the test broadcast!</title>
     <desc lang="en">NA</desc>
   </programme>
+  <programme start="20220619071300 +0000" stop="20220619072300 +0000" channel="AGRtv.play.nezlabs.ml">
+    <title lang="en">(OUTDATED) How to set up EKA2L1 + Gameplay (Symbian on Android, PC, Linux and macOS!)</title>
+    <desc lang="en">Hello guys, and I'm gonna teach you how to set up EKA2L1. Let's go!</desc>
+  </programme>
 </tv>
