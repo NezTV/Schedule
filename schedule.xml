@@ -18,11 +18,7 @@
     <title lang="en">(OUTDATED) How to set up EKA2L1 + Gameplay (Symbian on Android, PC, Linux and macOS!)</title>
     <desc lang="en">Hello guys, and I'm gonna teach you how to set up EKA2L1. Let's go!</desc>
   </programme>
-  <programme start="20220622003000 +0000" stop="20220622004000 +0000" channel="AGRtv.play.nezlabs.ml">
-    <title lang="en">(OUTDATED) How to set up EKA2L1 + Gameplay (Symbian on Android, PC, Linux and macOS!)</title>
-    <desc lang="en">Hello guys, and I'm gonna teach you how to set up EKA2L1. Let's go!</desc>
-  </programme>
-  <programme start="20220622004000 +0000" stop="20220622005000 +0000" channel="AGRtv.play.nezlabs.ml">
+  <programme start="20220622003000 +0000" stop="20220622005000 +0000" channel="AGRtv.play.nezlabs.ml">
     <title lang="en">(OUTDATED) How to set up EKA2L1 + Gameplay (Symbian on Android, PC, Linux and macOS!)</title>
     <desc lang="en">Hello guys, and I'm gonna teach you how to set up EKA2L1. Let's go!</desc>
   </programme>
@@ -582,7 +578,11 @@
     <title lang="en">(OUTDATED) How to set up EKA2L1 + Gameplay (Symbian on Android, PC, Linux and macOS!)</title>
     <desc lang="en">Hello guys, and I'm gonna teach you how to set up EKA2L1. Let's go!</desc>
   </programme>
-  <programme start="20220622235000 +0000" stop="20220623000000 +0000" channel="AGRtv.play.nezlabs.ml">
+  <programme start="20220622235000 +0000" stop="20220622004000 +0000" channel="AGRtv.play.nezlabs.ml">
+    <title lang="en">(OUTDATED) How to set up EKA2L1 + Gameplay (Symbian on Android, PC, Linux and macOS!)</title>
+    <desc lang="en">Hello guys, and I'm gonna teach you how to set up EKA2L1. Let's go!</desc>
+  </programme>
+  <programme start="20220622004000 +0000" stop="20220622005000 +0000" channel="AGRtv.play.nezlabs.ml">
     <title lang="en">(OUTDATED) How to set up EKA2L1 + Gameplay (Symbian on Android, PC, Linux and macOS!)</title>
     <desc lang="en">Hello guys, and I'm gonna teach you how to set up EKA2L1. Let's go!</desc>
   </programme>
