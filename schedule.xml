@@ -4,7 +4,7 @@
     <display-name>AGRtv</display-name>
   </channel>
   <channel id="WMSC.play.nezlabs.ml">
-    <display-name></display-name>
+    <display-name>WMSC</display-name>
   </channel>
   <programme start="20220622000000 +0000" stop="20220622001000 +0000" channel="AGRtv.play.nezlabs.ml">
     <title lang="en">(OUTDATED) How to set up EKA2L1 + Gameplay (Symbian on Android, PC, Linux and macOS!)</title>
