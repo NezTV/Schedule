@@ -7,36 +7,36 @@
     <display-name>WMSC</display-name>
   </channel>
   <programme start="20220707000000 +0000" stop="20220707000100 +0000" channel="AGRtv.play.nezlabs.ml">
-    <title lang="en">Welcome to the test broadcast!</title>
-    <desc lang="en">NA</desc>
+    <title lang="en">AGR Trailer</title>
+    <desc lang="en">Welcome to my channel! Full of memes and stuff! (Inspired by the Windows 98 ad)</desc>
   </programme>
-  <programme start="20220707000100 +0000" stop="20220707001100 +0000" channel="AGRtv.play.nezlabs.ml">
-    <title lang="en">(OUTDATED) How to set up EKA2L1 + Gameplay (Symbian on Android, PC, Linux and macOS!)</title>
-    <desc lang="en">Hello guys, and I'm gonna teach you how to set up EKA2L1. Let's go!</desc>
-  </programme>
-  <programme start="20220707001100 +0000" stop="20220707001900 +0000" channel="AGRtv.play.nezlabs.ml">
+  <programme start="20220707000100 +0000" stop="20220707000900 +0000" channel="AGRtv.play.nezlabs.ml">
     <title lang="en">[bad YTP] Steve Balmer tries to sell T-Bone's IBM PC</title>
     <desc lang="en">Windows everybody?</desc>
   </programme>
-  <programme start="20220707001900 +0000" stop="20220707002000 +0000" channel="AGRtv.play.nezlabs.ml">
-    <title lang="en">AGR Trailer</title>
-    <desc lang="en">Welcome to my channel! Full of memes and stuff! (Inspired by the Windows 98 ad)</desc>
+  <programme start="20220707000900 +0000" stop="20220707001000 +0000" channel="AGRtv.play.nezlabs.ml">
+    <title lang="en">Welcome to the test broadcast!</title>
+    <desc lang="en">NA</desc>
+  </programme>
+  <programme start="20220707001000 +0000" stop="20220707002000 +0000" channel="AGRtv.play.nezlabs.ml">
+    <title lang="en">(OUTDATED) How to set up EKA2L1 + Gameplay (Symbian on Android, PC, Linux and macOS!)</title>
+    <desc lang="en">Hello guys, and I'm gonna teach you how to set up EKA2L1. Let's go!</desc>
   </programme>
   <programme start="20220707002000 +0000" stop="20220707002500 +0000" channel="AGRtv.play.nezlabs.ml">
     <title lang="en">(Hopefully) The Most Accurate Nintendo Startup History</title>
     <desc lang="en">This is most accurate startup ever.</desc>
   </programme>
-  <programme start="20220707002500 +0000" stop="20220707003300 +0000" channel="AGRtv.play.nezlabs.ml">
-    <title lang="en">[bad YTP] Steve Balmer tries to sell T-Bone's IBM PC</title>
-    <desc lang="en">Windows everybody?</desc>
+  <programme start="20220707002500 +0000" stop="20220707002600 +0000" channel="AGRtv.play.nezlabs.ml">
+    <title lang="en">AGR Trailer</title>
+    <desc lang="en">Welcome to my channel! Full of memes and stuff! (Inspired by the Windows 98 ad)</desc>
   </programme>
-  <programme start="20220707003300 +0000" stop="20220707003800 +0000" channel="AGRtv.play.nezlabs.ml">
+  <programme start="20220707002600 +0000" stop="20220707003100 +0000" channel="AGRtv.play.nezlabs.ml">
     <title lang="en">(Hopefully) The Most Accurate Nintendo Startup History</title>
     <desc lang="en">This is most accurate startup ever.</desc>
   </programme>
-  <programme start="20220707003800 +0000" stop="20220707003900 +0000" channel="AGRtv.play.nezlabs.ml">
-    <title lang="en">AGR Trailer</title>
-    <desc lang="en">Welcome to my channel! Full of memes and stuff! (Inspired by the Windows 98 ad)</desc>
+  <programme start="20220707003100 +0000" stop="20220707003900 +0000" channel="AGRtv.play.nezlabs.ml">
+    <title lang="en">[bad YTP] Steve Balmer tries to sell T-Bone's IBM PC</title>
+    <desc lang="en">Windows everybody?</desc>
   </programme>
   <programme start="20220707003900 +0000" stop="20220707004000 +0000" channel="AGRtv.play.nezlabs.ml">
     <title lang="en">Welcome to the test broadcast!</title>
@@ -46,317 +46,317 @@
     <title lang="en">(OUTDATED) How to set up EKA2L1 + Gameplay (Symbian on Android, PC, Linux and macOS!)</title>
     <desc lang="en">Hello guys, and I'm gonna teach you how to set up EKA2L1. Let's go!</desc>
   </programme>
-  <programme start="20220707005000 +0000" stop="20220707005100 +0000" channel="AGRtv.play.nezlabs.ml">
-    <title lang="en">AGR Trailer</title>
-    <desc lang="en">Welcome to my channel! Full of memes and stuff! (Inspired by the Windows 98 ad)</desc>
-  </programme>
-  <programme start="20220707005100 +0000" stop="20220707005900 +0000" channel="AGRtv.play.nezlabs.ml">
+  <programme start="20220707005000 +0000" stop="20220707005800 +0000" channel="AGRtv.play.nezlabs.ml">
     <title lang="en">[bad YTP] Steve Balmer tries to sell T-Bone's IBM PC</title>
     <desc lang="en">Windows everybody?</desc>
   </programme>
-  <programme start="20220707005900 +0000" stop="20220707010400 +0000" channel="AGRtv.play.nezlabs.ml">
-    <title lang="en">(Hopefully) The Most Accurate Nintendo Startup History</title>
-    <desc lang="en">This is most accurate startup ever.</desc>
-  </programme>
-  <programme start="20220707010400 +0000" stop="20220707010500 +0000" channel="AGRtv.play.nezlabs.ml">
-    <title lang="en">Welcome to the test broadcast!</title>
-    <desc lang="en">NA</desc>
-  </programme>
-  <programme start="20220707010500 +0000" stop="20220707011500 +0000" channel="AGRtv.play.nezlabs.ml">
-    <title lang="en">(OUTDATED) How to set up EKA2L1 + Gameplay (Symbian on Android, PC, Linux and macOS!)</title>
-    <desc lang="en">Hello guys, and I'm gonna teach you how to set up EKA2L1. Let's go!</desc>
-  </programme>
-  <programme start="20220707011500 +0000" stop="20220707011600 +0000" channel="AGRtv.play.nezlabs.ml">
-    <title lang="en">Welcome to the test broadcast!</title>
-    <desc lang="en">NA</desc>
-  </programme>
-  <programme start="20220707011600 +0000" stop="20220707012600 +0000" channel="AGRtv.play.nezlabs.ml">
-    <title lang="en">(OUTDATED) How to set up EKA2L1 + Gameplay (Symbian on Android, PC, Linux and macOS!)</title>
-    <desc lang="en">Hello guys, and I'm gonna teach you how to set up EKA2L1. Let's go!</desc>
-  </programme>
-  <programme start="20220707012600 +0000" stop="20220707013400 +0000" channel="AGRtv.play.nezlabs.ml">
-    <title lang="en">[bad YTP] Steve Balmer tries to sell T-Bone's IBM PC</title>
-    <desc lang="en">Windows everybody?</desc>
-  </programme>
-  <programme start="20220707013400 +0000" stop="20220707013500 +0000" channel="AGRtv.play.nezlabs.ml">
+  <programme start="20220707005800 +0000" stop="20220707005900 +0000" channel="AGRtv.play.nezlabs.ml">
     <title lang="en">AGR Trailer</title>
     <desc lang="en">Welcome to my channel! Full of memes and stuff! (Inspired by the Windows 98 ad)</desc>
   </programme>
-  <programme start="20220707013500 +0000" stop="20220707014000 +0000" channel="AGRtv.play.nezlabs.ml">
-    <title lang="en">(Hopefully) The Most Accurate Nintendo Startup History</title>
-    <desc lang="en">This is most accurate startup ever.</desc>
-  </programme>
-  <programme start="20220707014000 +0000" stop="20220707015000 +0000" channel="AGRtv.play.nezlabs.ml">
+  <programme start="20220707005900 +0000" stop="20220707010900 +0000" channel="AGRtv.play.nezlabs.ml">
     <title lang="en">(OUTDATED) How to set up EKA2L1 + Gameplay (Symbian on Android, PC, Linux and macOS!)</title>
     <desc lang="en">Hello guys, and I'm gonna teach you how to set up EKA2L1. Let's go!</desc>
   </programme>
-  <programme start="20220707015000 +0000" stop="20220707015100 +0000" channel="AGRtv.play.nezlabs.ml">
-    <title lang="en">AGR Trailer</title>
-    <desc lang="en">Welcome to my channel! Full of memes and stuff! (Inspired by the Windows 98 ad)</desc>
+  <programme start="20220707010900 +0000" stop="20220707011000 +0000" channel="AGRtv.play.nezlabs.ml">
+    <title lang="en">Welcome to the test broadcast!</title>
+    <desc lang="en">NA</desc>
   </programme>
-  <programme start="20220707015100 +0000" stop="20220707015600 +0000" channel="AGRtv.play.nezlabs.ml">
+  <programme start="20220707011000 +0000" stop="20220707011500 +0000" channel="AGRtv.play.nezlabs.ml">
     <title lang="en">(Hopefully) The Most Accurate Nintendo Startup History</title>
     <desc lang="en">This is most accurate startup ever.</desc>
   </programme>
-  <programme start="20220707015600 +0000" stop="20220707020400 +0000" channel="AGRtv.play.nezlabs.ml">
+  <programme start="20220707011500 +0000" stop="20220707012300 +0000" channel="AGRtv.play.nezlabs.ml">
     <title lang="en">[bad YTP] Steve Balmer tries to sell T-Bone's IBM PC</title>
     <desc lang="en">Windows everybody?</desc>
   </programme>
-  <programme start="20220707020400 +0000" stop="20220707020500 +0000" channel="AGRtv.play.nezlabs.ml">
+  <programme start="20220707012300 +0000" stop="20220707013300 +0000" channel="AGRtv.play.nezlabs.ml">
+    <title lang="en">(OUTDATED) How to set up EKA2L1 + Gameplay (Symbian on Android, PC, Linux and macOS!)</title>
+    <desc lang="en">Hello guys, and I'm gonna teach you how to set up EKA2L1. Let's go!</desc>
+  </programme>
+  <programme start="20220707013300 +0000" stop="20220707013400 +0000" channel="AGRtv.play.nezlabs.ml">
     <title lang="en">Welcome to the test broadcast!</title>
     <desc lang="en">NA</desc>
+  </programme>
+  <programme start="20220707013400 +0000" stop="20220707013900 +0000" channel="AGRtv.play.nezlabs.ml">
+    <title lang="en">(Hopefully) The Most Accurate Nintendo Startup History</title>
+    <desc lang="en">This is most accurate startup ever.</desc>
+  </programme>
+  <programme start="20220707013900 +0000" stop="20220707014000 +0000" channel="AGRtv.play.nezlabs.ml">
+    <title lang="en">AGR Trailer</title>
+    <desc lang="en">Welcome to my channel! Full of memes and stuff! (Inspired by the Windows 98 ad)</desc>
+  </programme>
+  <programme start="20220707014000 +0000" stop="20220707014800 +0000" channel="AGRtv.play.nezlabs.ml">
+    <title lang="en">[bad YTP] Steve Balmer tries to sell T-Bone's IBM PC</title>
+    <desc lang="en">Windows everybody?</desc>
+  </programme>
+  <programme start="20220707014800 +0000" stop="20220707014900 +0000" channel="AGRtv.play.nezlabs.ml">
+    <title lang="en">Welcome to the test broadcast!</title>
+    <desc lang="en">NA</desc>
+  </programme>
+  <programme start="20220707014900 +0000" stop="20220707015000 +0000" channel="AGRtv.play.nezlabs.ml">
+    <title lang="en">AGR Trailer</title>
+    <desc lang="en">Welcome to my channel! Full of memes and stuff! (Inspired by the Windows 98 ad)</desc>
+  </programme>
+  <programme start="20220707015000 +0000" stop="20220707015500 +0000" channel="AGRtv.play.nezlabs.ml">
+    <title lang="en">(Hopefully) The Most Accurate Nintendo Startup History</title>
+    <desc lang="en">This is most accurate startup ever.</desc>
+  </programme>
+  <programme start="20220707015500 +0000" stop="20220707020500 +0000" channel="AGRtv.play.nezlabs.ml">
+    <title lang="en">(OUTDATED) How to set up EKA2L1 + Gameplay (Symbian on Android, PC, Linux and macOS!)</title>
+    <desc lang="en">Hello guys, and I'm gonna teach you how to set up EKA2L1. Let's go!</desc>
   </programme>
   <programme start="20220707020500 +0000" stop="20220707020600 +0000" channel="AGRtv.play.nezlabs.ml">
-    <title lang="en">AGR Trailer</title>
-    <desc lang="en">Welcome to my channel! Full of memes and stuff! (Inspired by the Windows 98 ad)</desc>
-  </programme>
-  <programme start="20220707020600 +0000" stop="20220707021100 +0000" channel="AGRtv.play.nezlabs.ml">
-    <title lang="en">(Hopefully) The Most Accurate Nintendo Startup History</title>
-    <desc lang="en">This is most accurate startup ever.</desc>
-  </programme>
-  <programme start="20220707021100 +0000" stop="20220707021900 +0000" channel="AGRtv.play.nezlabs.ml">
-    <title lang="en">[bad YTP] Steve Balmer tries to sell T-Bone's IBM PC</title>
-    <desc lang="en">Windows everybody?</desc>
-  </programme>
-  <programme start="20220707021900 +0000" stop="20220707022000 +0000" channel="AGRtv.play.nezlabs.ml">
     <title lang="en">Welcome to the test broadcast!</title>
     <desc lang="en">NA</desc>
   </programme>
-  <programme start="20220707022000 +0000" stop="20220707023000 +0000" channel="AGRtv.play.nezlabs.ml">
+  <programme start="20220707020600 +0000" stop="20220707020700 +0000" channel="AGRtv.play.nezlabs.ml">
+    <title lang="en">AGR Trailer</title>
+    <desc lang="en">Welcome to my channel! Full of memes and stuff! (Inspired by the Windows 98 ad)</desc>
+  </programme>
+  <programme start="20220707020700 +0000" stop="20220707021500 +0000" channel="AGRtv.play.nezlabs.ml">
+    <title lang="en">[bad YTP] Steve Balmer tries to sell T-Bone's IBM PC</title>
+    <desc lang="en">Windows everybody?</desc>
+  </programme>
+  <programme start="20220707021500 +0000" stop="20220707022500 +0000" channel="AGRtv.play.nezlabs.ml">
     <title lang="en">(OUTDATED) How to set up EKA2L1 + Gameplay (Symbian on Android, PC, Linux and macOS!)</title>
     <desc lang="en">Hello guys, and I'm gonna teach you how to set up EKA2L1. Let's go!</desc>
+  </programme>
+  <programme start="20220707022500 +0000" stop="20220707023000 +0000" channel="AGRtv.play.nezlabs.ml">
+    <title lang="en">(Hopefully) The Most Accurate Nintendo Startup History</title>
+    <desc lang="en">This is most accurate startup ever.</desc>
   </programme>
   <programme start="20220707023000 +0000" stop="20220707024000 +0000" channel="AGRtv.play.nezlabs.ml">
     <title lang="en">(OUTDATED) How to set up EKA2L1 + Gameplay (Symbian on Android, PC, Linux and macOS!)</title>
     <desc lang="en">Hello guys, and I'm gonna teach you how to set up EKA2L1. Let's go!</desc>
   </programme>
-  <programme start="20220707024000 +0000" stop="20220707024800 +0000" channel="AGRtv.play.nezlabs.ml">
-    <title lang="en">[bad YTP] Steve Balmer tries to sell T-Bone's IBM PC</title>
-    <desc lang="en">Windows everybody?</desc>
-  </programme>
-  <programme start="20220707024800 +0000" stop="20220707024900 +0000" channel="AGRtv.play.nezlabs.ml">
+  <programme start="20220707024000 +0000" stop="20220707024100 +0000" channel="AGRtv.play.nezlabs.ml">
     <title lang="en">AGR Trailer</title>
     <desc lang="en">Welcome to my channel! Full of memes and stuff! (Inspired by the Windows 98 ad)</desc>
   </programme>
-  <programme start="20220707024900 +0000" stop="20220707025000 +0000" channel="AGRtv.play.nezlabs.ml">
+  <programme start="20220707024100 +0000" stop="20220707024200 +0000" channel="AGRtv.play.nezlabs.ml">
     <title lang="en">Welcome to the test broadcast!</title>
     <desc lang="en">NA</desc>
   </programme>
-  <programme start="20220707025000 +0000" stop="20220707025500 +0000" channel="AGRtv.play.nezlabs.ml">
+  <programme start="20220707024200 +0000" stop="20220707024700 +0000" channel="AGRtv.play.nezlabs.ml">
     <title lang="en">(Hopefully) The Most Accurate Nintendo Startup History</title>
     <desc lang="en">This is most accurate startup ever.</desc>
   </programme>
-  <programme start="20220707025500 +0000" stop="20220707030000 +0000" channel="AGRtv.play.nezlabs.ml">
-    <title lang="en">(Hopefully) The Most Accurate Nintendo Startup History</title>
-    <desc lang="en">This is most accurate startup ever.</desc>
+  <programme start="20220707024700 +0000" stop="20220707025500 +0000" channel="AGRtv.play.nezlabs.ml">
+    <title lang="en">[bad YTP] Steve Balmer tries to sell T-Bone's IBM PC</title>
+    <desc lang="en">Windows everybody?</desc>
   </programme>
-  <programme start="20220707030000 +0000" stop="20220707030100 +0000" channel="AGRtv.play.nezlabs.ml">
+  <programme start="20220707025500 +0000" stop="20220707025600 +0000" channel="AGRtv.play.nezlabs.ml">
     <title lang="en">AGR Trailer</title>
     <desc lang="en">Welcome to my channel! Full of memes and stuff! (Inspired by the Windows 98 ad)</desc>
   </programme>
-  <programme start="20220707030100 +0000" stop="20220707030200 +0000" channel="AGRtv.play.nezlabs.ml">
+  <programme start="20220707025600 +0000" stop="20220707025700 +0000" channel="AGRtv.play.nezlabs.ml">
     <title lang="en">Welcome to the test broadcast!</title>
     <desc lang="en">NA</desc>
   </programme>
-  <programme start="20220707030200 +0000" stop="20220707031000 +0000" channel="AGRtv.play.nezlabs.ml">
+  <programme start="20220707025700 +0000" stop="20220707030500 +0000" channel="AGRtv.play.nezlabs.ml">
     <title lang="en">[bad YTP] Steve Balmer tries to sell T-Bone's IBM PC</title>
     <desc lang="en">Windows everybody?</desc>
+  </programme>
+  <programme start="20220707030500 +0000" stop="20220707031000 +0000" channel="AGRtv.play.nezlabs.ml">
+    <title lang="en">(Hopefully) The Most Accurate Nintendo Startup History</title>
+    <desc lang="en">This is most accurate startup ever.</desc>
   </programme>
   <programme start="20220707031000 +0000" stop="20220707032000 +0000" channel="AGRtv.play.nezlabs.ml">
     <title lang="en">(OUTDATED) How to set up EKA2L1 + Gameplay (Symbian on Android, PC, Linux and macOS!)</title>
     <desc lang="en">Hello guys, and I'm gonna teach you how to set up EKA2L1. Let's go!</desc>
   </programme>
-  <programme start="20220707032000 +0000" stop="20220707032100 +0000" channel="AGRtv.play.nezlabs.ml">
-    <title lang="en">Welcome to the test broadcast!</title>
-    <desc lang="en">NA</desc>
-  </programme>
-  <programme start="20220707032100 +0000" stop="20220707032600 +0000" channel="AGRtv.play.nezlabs.ml">
-    <title lang="en">(Hopefully) The Most Accurate Nintendo Startup History</title>
-    <desc lang="en">This is most accurate startup ever.</desc>
-  </programme>
-  <programme start="20220707032600 +0000" stop="20220707033400 +0000" channel="AGRtv.play.nezlabs.ml">
+  <programme start="20220707032000 +0000" stop="20220707032800 +0000" channel="AGRtv.play.nezlabs.ml">
     <title lang="en">[bad YTP] Steve Balmer tries to sell T-Bone's IBM PC</title>
     <desc lang="en">Windows everybody?</desc>
   </programme>
-  <programme start="20220707033400 +0000" stop="20220707033500 +0000" channel="AGRtv.play.nezlabs.ml">
+  <programme start="20220707032800 +0000" stop="20220707033300 +0000" channel="AGRtv.play.nezlabs.ml">
+    <title lang="en">(Hopefully) The Most Accurate Nintendo Startup History</title>
+    <desc lang="en">This is most accurate startup ever.</desc>
+  </programme>
+  <programme start="20220707033300 +0000" stop="20220707033400 +0000" channel="AGRtv.play.nezlabs.ml">
     <title lang="en">AGR Trailer</title>
     <desc lang="en">Welcome to my channel! Full of memes and stuff! (Inspired by the Windows 98 ad)</desc>
+  </programme>
+  <programme start="20220707033400 +0000" stop="20220707033500 +0000" channel="AGRtv.play.nezlabs.ml">
+    <title lang="en">Welcome to the test broadcast!</title>
+    <desc lang="en">NA</desc>
   </programme>
   <programme start="20220707033500 +0000" stop="20220707034500 +0000" channel="AGRtv.play.nezlabs.ml">
     <title lang="en">(OUTDATED) How to set up EKA2L1 + Gameplay (Symbian on Android, PC, Linux and macOS!)</title>
     <desc lang="en">Hello guys, and I'm gonna teach you how to set up EKA2L1. Let's go!</desc>
   </programme>
-  <programme start="20220707034500 +0000" stop="20220707035300 +0000" channel="AGRtv.play.nezlabs.ml">
-    <title lang="en">[bad YTP] Steve Balmer tries to sell T-Bone's IBM PC</title>
-    <desc lang="en">Windows everybody?</desc>
+  <programme start="20220707034500 +0000" stop="20220707035000 +0000" channel="AGRtv.play.nezlabs.ml">
+    <title lang="en">(Hopefully) The Most Accurate Nintendo Startup History</title>
+    <desc lang="en">This is most accurate startup ever.</desc>
   </programme>
-  <programme start="20220707035300 +0000" stop="20220707035400 +0000" channel="AGRtv.play.nezlabs.ml">
+  <programme start="20220707035000 +0000" stop="20220707040000 +0000" channel="AGRtv.play.nezlabs.ml">
+    <title lang="en">(OUTDATED) How to set up EKA2L1 + Gameplay (Symbian on Android, PC, Linux and macOS!)</title>
+    <desc lang="en">Hello guys, and I'm gonna teach you how to set up EKA2L1. Let's go!</desc>
+  </programme>
+  <programme start="20220707040000 +0000" stop="20220707040100 +0000" channel="AGRtv.play.nezlabs.ml">
     <title lang="en">Welcome to the test broadcast!</title>
     <desc lang="en">NA</desc>
   </programme>
-  <programme start="20220707035400 +0000" stop="20220707035500 +0000" channel="AGRtv.play.nezlabs.ml">
+  <programme start="20220707040100 +0000" stop="20220707040200 +0000" channel="AGRtv.play.nezlabs.ml">
     <title lang="en">AGR Trailer</title>
     <desc lang="en">Welcome to my channel! Full of memes and stuff! (Inspired by the Windows 98 ad)</desc>
   </programme>
-  <programme start="20220707035500 +0000" stop="20220707040500 +0000" channel="AGRtv.play.nezlabs.ml">
-    <title lang="en">(OUTDATED) How to set up EKA2L1 + Gameplay (Symbian on Android, PC, Linux and macOS!)</title>
-    <desc lang="en">Hello guys, and I'm gonna teach you how to set up EKA2L1. Let's go!</desc>
-  </programme>
-  <programme start="20220707040500 +0000" stop="20220707041000 +0000" channel="AGRtv.play.nezlabs.ml">
-    <title lang="en">(Hopefully) The Most Accurate Nintendo Startup History</title>
-    <desc lang="en">This is most accurate startup ever.</desc>
-  </programme>
-  <programme start="20220707041000 +0000" stop="20220707041500 +0000" channel="AGRtv.play.nezlabs.ml">
-    <title lang="en">(Hopefully) The Most Accurate Nintendo Startup History</title>
-    <desc lang="en">This is most accurate startup ever.</desc>
-  </programme>
-  <programme start="20220707041500 +0000" stop="20220707042300 +0000" channel="AGRtv.play.nezlabs.ml">
+  <programme start="20220707040200 +0000" stop="20220707041000 +0000" channel="AGRtv.play.nezlabs.ml">
     <title lang="en">[bad YTP] Steve Balmer tries to sell T-Bone's IBM PC</title>
     <desc lang="en">Windows everybody?</desc>
   </programme>
-  <programme start="20220707042300 +0000" stop="20220707042400 +0000" channel="AGRtv.play.nezlabs.ml">
+  <programme start="20220707041000 +0000" stop="20220707041100 +0000" channel="AGRtv.play.nezlabs.ml">
     <title lang="en">Welcome to the test broadcast!</title>
     <desc lang="en">NA</desc>
   </programme>
-  <programme start="20220707042400 +0000" stop="20220707042500 +0000" channel="AGRtv.play.nezlabs.ml">
-    <title lang="en">AGR Trailer</title>
-    <desc lang="en">Welcome to my channel! Full of memes and stuff! (Inspired by the Windows 98 ad)</desc>
-  </programme>
-  <programme start="20220707042500 +0000" stop="20220707043500 +0000" channel="AGRtv.play.nezlabs.ml">
-    <title lang="en">(OUTDATED) How to set up EKA2L1 + Gameplay (Symbian on Android, PC, Linux and macOS!)</title>
-    <desc lang="en">Hello guys, and I'm gonna teach you how to set up EKA2L1. Let's go!</desc>
-  </programme>
-  <programme start="20220707043500 +0000" stop="20220707044300 +0000" channel="AGRtv.play.nezlabs.ml">
+  <programme start="20220707041100 +0000" stop="20220707041900 +0000" channel="AGRtv.play.nezlabs.ml">
     <title lang="en">[bad YTP] Steve Balmer tries to sell T-Bone's IBM PC</title>
     <desc lang="en">Windows everybody?</desc>
   </programme>
-  <programme start="20220707044300 +0000" stop="20220707044800 +0000" channel="AGRtv.play.nezlabs.ml">
+  <programme start="20220707041900 +0000" stop="20220707042400 +0000" channel="AGRtv.play.nezlabs.ml">
     <title lang="en">(Hopefully) The Most Accurate Nintendo Startup History</title>
     <desc lang="en">This is most accurate startup ever.</desc>
   </programme>
-  <programme start="20220707044800 +0000" stop="20220707044900 +0000" channel="AGRtv.play.nezlabs.ml">
+  <programme start="20220707042400 +0000" stop="20220707043400 +0000" channel="AGRtv.play.nezlabs.ml">
+    <title lang="en">(OUTDATED) How to set up EKA2L1 + Gameplay (Symbian on Android, PC, Linux and macOS!)</title>
+    <desc lang="en">Hello guys, and I'm gonna teach you how to set up EKA2L1. Let's go!</desc>
+  </programme>
+  <programme start="20220707043400 +0000" stop="20220707043500 +0000" channel="AGRtv.play.nezlabs.ml">
     <title lang="en">AGR Trailer</title>
     <desc lang="en">Welcome to my channel! Full of memes and stuff! (Inspired by the Windows 98 ad)</desc>
   </programme>
-  <programme start="20220707044900 +0000" stop="20220707045900 +0000" channel="AGRtv.play.nezlabs.ml">
+  <programme start="20220707043500 +0000" stop="20220707043600 +0000" channel="AGRtv.play.nezlabs.ml">
+    <title lang="en">Welcome to the test broadcast!</title>
+    <desc lang="en">NA</desc>
+  </programme>
+  <programme start="20220707043600 +0000" stop="20220707044600 +0000" channel="AGRtv.play.nezlabs.ml">
     <title lang="en">(OUTDATED) How to set up EKA2L1 + Gameplay (Symbian on Android, PC, Linux and macOS!)</title>
     <desc lang="en">Hello guys, and I'm gonna teach you how to set up EKA2L1. Let's go!</desc>
+  </programme>
+  <programme start="20220707044600 +0000" stop="20220707045400 +0000" channel="AGRtv.play.nezlabs.ml">
+    <title lang="en">[bad YTP] Steve Balmer tries to sell T-Bone's IBM PC</title>
+    <desc lang="en">Windows everybody?</desc>
+  </programme>
+  <programme start="20220707045400 +0000" stop="20220707045900 +0000" channel="AGRtv.play.nezlabs.ml">
+    <title lang="en">(Hopefully) The Most Accurate Nintendo Startup History</title>
+    <desc lang="en">This is most accurate startup ever.</desc>
   </programme>
   <programme start="20220707045900 +0000" stop="20220707050000 +0000" channel="AGRtv.play.nezlabs.ml">
-    <title lang="en">Welcome to the test broadcast!</title>
-    <desc lang="en">NA</desc>
-  </programme>
-  <programme start="20220707050000 +0000" stop="20220707050100 +0000" channel="AGRtv.play.nezlabs.ml">
-    <title lang="en">Welcome to the test broadcast!</title>
-    <desc lang="en">NA</desc>
-  </programme>
-  <programme start="20220707050100 +0000" stop="20220707051100 +0000" channel="AGRtv.play.nezlabs.ml">
-    <title lang="en">(OUTDATED) How to set up EKA2L1 + Gameplay (Symbian on Android, PC, Linux and macOS!)</title>
-    <desc lang="en">Hello guys, and I'm gonna teach you how to set up EKA2L1. Let's go!</desc>
-  </programme>
-  <programme start="20220707051100 +0000" stop="20220707051200 +0000" channel="AGRtv.play.nezlabs.ml">
     <title lang="en">AGR Trailer</title>
     <desc lang="en">Welcome to my channel! Full of memes and stuff! (Inspired by the Windows 98 ad)</desc>
   </programme>
-  <programme start="20220707051200 +0000" stop="20220707051700 +0000" channel="AGRtv.play.nezlabs.ml">
-    <title lang="en">(Hopefully) The Most Accurate Nintendo Startup History</title>
-    <desc lang="en">This is most accurate startup ever.</desc>
-  </programme>
-  <programme start="20220707051700 +0000" stop="20220707052500 +0000" channel="AGRtv.play.nezlabs.ml">
-    <title lang="en">[bad YTP] Steve Balmer tries to sell T-Bone's IBM PC</title>
-    <desc lang="en">Windows everybody?</desc>
-  </programme>
-  <programme start="20220707052500 +0000" stop="20220707052600 +0000" channel="AGRtv.play.nezlabs.ml">
-    <title lang="en">AGR Trailer</title>
-    <desc lang="en">Welcome to my channel! Full of memes and stuff! (Inspired by the Windows 98 ad)</desc>
-  </programme>
-  <programme start="20220707052600 +0000" stop="20220707053600 +0000" channel="AGRtv.play.nezlabs.ml">
+  <programme start="20220707050000 +0000" stop="20220707051000 +0000" channel="AGRtv.play.nezlabs.ml">
     <title lang="en">(OUTDATED) How to set up EKA2L1 + Gameplay (Symbian on Android, PC, Linux and macOS!)</title>
     <desc lang="en">Hello guys, and I'm gonna teach you how to set up EKA2L1. Let's go!</desc>
   </programme>
-  <programme start="20220707053600 +0000" stop="20220707054100 +0000" channel="AGRtv.play.nezlabs.ml">
-    <title lang="en">(Hopefully) The Most Accurate Nintendo Startup History</title>
-    <desc lang="en">This is most accurate startup ever.</desc>
+  <programme start="20220707051000 +0000" stop="20220707051100 +0000" channel="AGRtv.play.nezlabs.ml">
+    <title lang="en">AGR Trailer</title>
+    <desc lang="en">Welcome to my channel! Full of memes and stuff! (Inspired by the Windows 98 ad)</desc>
   </programme>
-  <programme start="20220707054100 +0000" stop="20220707054900 +0000" channel="AGRtv.play.nezlabs.ml">
+  <programme start="20220707051100 +0000" stop="20220707051900 +0000" channel="AGRtv.play.nezlabs.ml">
     <title lang="en">[bad YTP] Steve Balmer tries to sell T-Bone's IBM PC</title>
     <desc lang="en">Windows everybody?</desc>
   </programme>
-  <programme start="20220707054900 +0000" stop="20220707055000 +0000" channel="AGRtv.play.nezlabs.ml">
+  <programme start="20220707051900 +0000" stop="20220707052400 +0000" channel="AGRtv.play.nezlabs.ml">
+    <title lang="en">(Hopefully) The Most Accurate Nintendo Startup History</title>
+    <desc lang="en">This is most accurate startup ever.</desc>
+  </programme>
+  <programme start="20220707052400 +0000" stop="20220707052500 +0000" channel="AGRtv.play.nezlabs.ml">
     <title lang="en">Welcome to the test broadcast!</title>
     <desc lang="en">NA</desc>
   </programme>
-  <programme start="20220707055000 +0000" stop="20220707055100 +0000" channel="AGRtv.play.nezlabs.ml">
-    <title lang="en">AGR Trailer</title>
-    <desc lang="en">Welcome to my channel! Full of memes and stuff! (Inspired by the Windows 98 ad)</desc>
-  </programme>
-  <programme start="20220707055100 +0000" stop="20220707055900 +0000" channel="AGRtv.play.nezlabs.ml">
-    <title lang="en">[bad YTP] Steve Balmer tries to sell T-Bone's IBM PC</title>
-    <desc lang="en">Windows everybody?</desc>
-  </programme>
-  <programme start="20220707055900 +0000" stop="20220707060400 +0000" channel="AGRtv.play.nezlabs.ml">
+  <programme start="20220707052500 +0000" stop="20220707053000 +0000" channel="AGRtv.play.nezlabs.ml">
     <title lang="en">(Hopefully) The Most Accurate Nintendo Startup History</title>
     <desc lang="en">This is most accurate startup ever.</desc>
   </programme>
-  <programme start="20220707060400 +0000" stop="20220707061400 +0000" channel="AGRtv.play.nezlabs.ml">
+  <programme start="20220707053000 +0000" stop="20220707053100 +0000" channel="AGRtv.play.nezlabs.ml">
+    <title lang="en">Welcome to the test broadcast!</title>
+    <desc lang="en">NA</desc>
+  </programme>
+  <programme start="20220707053100 +0000" stop="20220707053200 +0000" channel="AGRtv.play.nezlabs.ml">
+    <title lang="en">AGR Trailer</title>
+    <desc lang="en">Welcome to my channel! Full of memes and stuff! (Inspired by the Windows 98 ad)</desc>
+  </programme>
+  <programme start="20220707053200 +0000" stop="20220707054000 +0000" channel="AGRtv.play.nezlabs.ml">
+    <title lang="en">[bad YTP] Steve Balmer tries to sell T-Bone's IBM PC</title>
+    <desc lang="en">Windows everybody?</desc>
+  </programme>
+  <programme start="20220707054000 +0000" stop="20220707055000 +0000" channel="AGRtv.play.nezlabs.ml">
     <title lang="en">(OUTDATED) How to set up EKA2L1 + Gameplay (Symbian on Android, PC, Linux and macOS!)</title>
     <desc lang="en">Hello guys, and I'm gonna teach you how to set up EKA2L1. Let's go!</desc>
+  </programme>
+  <programme start="20220707055000 +0000" stop="20220707055800 +0000" channel="AGRtv.play.nezlabs.ml">
+    <title lang="en">[bad YTP] Steve Balmer tries to sell T-Bone's IBM PC</title>
+    <desc lang="en">Windows everybody?</desc>
+  </programme>
+  <programme start="20220707055800 +0000" stop="20220707060300 +0000" channel="AGRtv.play.nezlabs.ml">
+    <title lang="en">(Hopefully) The Most Accurate Nintendo Startup History</title>
+    <desc lang="en">This is most accurate startup ever.</desc>
+  </programme>
+  <programme start="20220707060300 +0000" stop="20220707061300 +0000" channel="AGRtv.play.nezlabs.ml">
+    <title lang="en">(OUTDATED) How to set up EKA2L1 + Gameplay (Symbian on Android, PC, Linux and macOS!)</title>
+    <desc lang="en">Hello guys, and I'm gonna teach you how to set up EKA2L1. Let's go!</desc>
+  </programme>
+  <programme start="20220707061300 +0000" stop="20220707061400 +0000" channel="AGRtv.play.nezlabs.ml">
+    <title lang="en">AGR Trailer</title>
+    <desc lang="en">Welcome to my channel! Full of memes and stuff! (Inspired by the Windows 98 ad)</desc>
   </programme>
   <programme start="20220707061400 +0000" stop="20220707061500 +0000" channel="AGRtv.play.nezlabs.ml">
     <title lang="en">Welcome to the test broadcast!</title>
     <desc lang="en">NA</desc>
   </programme>
-  <programme start="20220707061500 +0000" stop="20220707061600 +0000" channel="AGRtv.play.nezlabs.ml">
-    <title lang="en">Welcome to the test broadcast!</title>
-    <desc lang="en">NA</desc>
-  </programme>
-  <programme start="20220707061600 +0000" stop="20220707062100 +0000" channel="AGRtv.play.nezlabs.ml">
-    <title lang="en">(Hopefully) The Most Accurate Nintendo Startup History</title>
-    <desc lang="en">This is most accurate startup ever.</desc>
-  </programme>
-  <programme start="20220707062100 +0000" stop="20220707062900 +0000" channel="AGRtv.play.nezlabs.ml">
+  <programme start="20220707061500 +0000" stop="20220707062300 +0000" channel="AGRtv.play.nezlabs.ml">
     <title lang="en">[bad YTP] Steve Balmer tries to sell T-Bone's IBM PC</title>
     <desc lang="en">Windows everybody?</desc>
   </programme>
-  <programme start="20220707062900 +0000" stop="20220707063900 +0000" channel="AGRtv.play.nezlabs.ml">
+  <programme start="20220707062300 +0000" stop="20220707063300 +0000" channel="AGRtv.play.nezlabs.ml">
     <title lang="en">(OUTDATED) How to set up EKA2L1 + Gameplay (Symbian on Android, PC, Linux and macOS!)</title>
     <desc lang="en">Hello guys, and I'm gonna teach you how to set up EKA2L1. Let's go!</desc>
+  </programme>
+  <programme start="20220707063300 +0000" stop="20220707063400 +0000" channel="AGRtv.play.nezlabs.ml">
+    <title lang="en">Welcome to the test broadcast!</title>
+    <desc lang="en">NA</desc>
+  </programme>
+  <programme start="20220707063400 +0000" stop="20220707063900 +0000" channel="AGRtv.play.nezlabs.ml">
+    <title lang="en">(Hopefully) The Most Accurate Nintendo Startup History</title>
+    <desc lang="en">This is most accurate startup ever.</desc>
   </programme>
   <programme start="20220707063900 +0000" stop="20220707064000 +0000" channel="AGRtv.play.nezlabs.ml">
     <title lang="en">AGR Trailer</title>
     <desc lang="en">Welcome to my channel! Full of memes and stuff! (Inspired by the Windows 98 ad)</desc>
   </programme>
-  <programme start="20220707064000 +0000" stop="20220707064800 +0000" channel="AGRtv.play.nezlabs.ml">
-    <title lang="en">[bad YTP] Steve Balmer tries to sell T-Bone's IBM PC</title>
-    <desc lang="en">Windows everybody?</desc>
-  </programme>
-  <programme start="20220707064800 +0000" stop="20220707065800 +0000" channel="AGRtv.play.nezlabs.ml">
-    <title lang="en">(OUTDATED) How to set up EKA2L1 + Gameplay (Symbian on Android, PC, Linux and macOS!)</title>
-    <desc lang="en">Hello guys, and I'm gonna teach you how to set up EKA2L1. Let's go!</desc>
-  </programme>
-  <programme start="20220707065800 +0000" stop="20220707065900 +0000" channel="AGRtv.play.nezlabs.ml">
-    <title lang="en">AGR Trailer</title>
-    <desc lang="en">Welcome to my channel! Full of memes and stuff! (Inspired by the Windows 98 ad)</desc>
-  </programme>
-  <programme start="20220707065900 +0000" stop="20220707070400 +0000" channel="AGRtv.play.nezlabs.ml">
+  <programme start="20220707064000 +0000" stop="20220707064500 +0000" channel="AGRtv.play.nezlabs.ml">
     <title lang="en">(Hopefully) The Most Accurate Nintendo Startup History</title>
     <desc lang="en">This is most accurate startup ever.</desc>
   </programme>
-  <programme start="20220707070400 +0000" stop="20220707070500 +0000" channel="AGRtv.play.nezlabs.ml">
+  <programme start="20220707064500 +0000" stop="20220707065300 +0000" channel="AGRtv.play.nezlabs.ml">
+    <title lang="en">[bad YTP] Steve Balmer tries to sell T-Bone's IBM PC</title>
+    <desc lang="en">Windows everybody?</desc>
+  </programme>
+  <programme start="20220707065300 +0000" stop="20220707065400 +0000" channel="AGRtv.play.nezlabs.ml">
     <title lang="en">Welcome to the test broadcast!</title>
     <desc lang="en">NA</desc>
   </programme>
-  <programme start="20220707070500 +0000" stop="20220707071500 +0000" channel="AGRtv.play.nezlabs.ml">
+  <programme start="20220707065400 +0000" stop="20220707070400 +0000" channel="AGRtv.play.nezlabs.ml">
     <title lang="en">(OUTDATED) How to set up EKA2L1 + Gameplay (Symbian on Android, PC, Linux and macOS!)</title>
     <desc lang="en">Hello guys, and I'm gonna teach you how to set up EKA2L1. Let's go!</desc>
   </programme>
-  <programme start="20220707071500 +0000" stop="20220707071600 +0000" channel="AGRtv.play.nezlabs.ml">
+  <programme start="20220707070400 +0000" stop="20220707070500 +0000" channel="AGRtv.play.nezlabs.ml">
     <title lang="en">AGR Trailer</title>
     <desc lang="en">Welcome to my channel! Full of memes and stuff! (Inspired by the Windows 98 ad)</desc>
   </programme>
-  <programme start="20220707071600 +0000" stop="20220707071700 +0000" channel="AGRtv.play.nezlabs.ml">
+  <programme start="20220707070500 +0000" stop="20220707070600 +0000" channel="AGRtv.play.nezlabs.ml">
     <title lang="en">Welcome to the test broadcast!</title>
     <desc lang="en">NA</desc>
+  </programme>
+  <programme start="20220707070600 +0000" stop="20220707071600 +0000" channel="AGRtv.play.nezlabs.ml">
+    <title lang="en">(OUTDATED) How to set up EKA2L1 + Gameplay (Symbian on Android, PC, Linux and macOS!)</title>
+    <desc lang="en">Hello guys, and I'm gonna teach you how to set up EKA2L1. Let's go!</desc>
+  </programme>
+  <programme start="20220707071600 +0000" stop="20220707071700 +0000" channel="AGRtv.play.nezlabs.ml">
+    <title lang="en">AGR Trailer</title>
+    <desc lang="en">Welcome to my channel! Full of memes and stuff! (Inspired by the Windows 98 ad)</desc>
   </programme>
   <programme start="20220707071700 +0000" stop="20220707072200 +0000" channel="AGRtv.play.nezlabs.ml">
     <title lang="en">(Hopefully) The Most Accurate Nintendo Startup History</title>
@@ -366,795 +366,791 @@
     <title lang="en">[bad YTP] Steve Balmer tries to sell T-Bone's IBM PC</title>
     <desc lang="en">Windows everybody?</desc>
   </programme>
-  <programme start="20220707073000 +0000" stop="20220707073500 +0000" channel="AGRtv.play.nezlabs.ml">
-    <title lang="en">(Hopefully) The Most Accurate Nintendo Startup History</title>
-    <desc lang="en">This is most accurate startup ever.</desc>
-  </programme>
-  <programme start="20220707073500 +0000" stop="20220707074300 +0000" channel="AGRtv.play.nezlabs.ml">
-    <title lang="en">[bad YTP] Steve Balmer tries to sell T-Bone's IBM PC</title>
-    <desc lang="en">Windows everybody?</desc>
-  </programme>
-  <programme start="20220707074300 +0000" stop="20220707074400 +0000" channel="AGRtv.play.nezlabs.ml">
-    <title lang="en">AGR Trailer</title>
-    <desc lang="en">Welcome to my channel! Full of memes and stuff! (Inspired by the Windows 98 ad)</desc>
-  </programme>
-  <programme start="20220707074400 +0000" stop="20220707075400 +0000" channel="AGRtv.play.nezlabs.ml">
+  <programme start="20220707073000 +0000" stop="20220707074000 +0000" channel="AGRtv.play.nezlabs.ml">
     <title lang="en">(OUTDATED) How to set up EKA2L1 + Gameplay (Symbian on Android, PC, Linux and macOS!)</title>
     <desc lang="en">Hello guys, and I'm gonna teach you how to set up EKA2L1. Let's go!</desc>
   </programme>
-  <programme start="20220707075400 +0000" stop="20220707075500 +0000" channel="AGRtv.play.nezlabs.ml">
+  <programme start="20220707074000 +0000" stop="20220707074100 +0000" channel="AGRtv.play.nezlabs.ml">
     <title lang="en">Welcome to the test broadcast!</title>
     <desc lang="en">NA</desc>
+  </programme>
+  <programme start="20220707074100 +0000" stop="20220707074200 +0000" channel="AGRtv.play.nezlabs.ml">
+    <title lang="en">AGR Trailer</title>
+    <desc lang="en">Welcome to my channel! Full of memes and stuff! (Inspired by the Windows 98 ad)</desc>
+  </programme>
+  <programme start="20220707074200 +0000" stop="20220707074700 +0000" channel="AGRtv.play.nezlabs.ml">
+    <title lang="en">(Hopefully) The Most Accurate Nintendo Startup History</title>
+    <desc lang="en">This is most accurate startup ever.</desc>
+  </programme>
+  <programme start="20220707074700 +0000" stop="20220707075500 +0000" channel="AGRtv.play.nezlabs.ml">
+    <title lang="en">[bad YTP] Steve Balmer tries to sell T-Bone's IBM PC</title>
+    <desc lang="en">Windows everybody?</desc>
   </programme>
   <programme start="20220707075500 +0000" stop="20220707080500 +0000" channel="AGRtv.play.nezlabs.ml">
     <title lang="en">(OUTDATED) How to set up EKA2L1 + Gameplay (Symbian on Android, PC, Linux and macOS!)</title>
     <desc lang="en">Hello guys, and I'm gonna teach you how to set up EKA2L1. Let's go!</desc>
   </programme>
-  <programme start="20220707080500 +0000" stop="20220707080600 +0000" channel="AGRtv.play.nezlabs.ml">
-    <title lang="en">AGR Trailer</title>
-    <desc lang="en">Welcome to my channel! Full of memes and stuff! (Inspired by the Windows 98 ad)</desc>
-  </programme>
-  <programme start="20220707080600 +0000" stop="20220707081100 +0000" channel="AGRtv.play.nezlabs.ml">
-    <title lang="en">(Hopefully) The Most Accurate Nintendo Startup History</title>
-    <desc lang="en">This is most accurate startup ever.</desc>
-  </programme>
-  <programme start="20220707081100 +0000" stop="20220707081200 +0000" channel="AGRtv.play.nezlabs.ml">
-    <title lang="en">Welcome to the test broadcast!</title>
-    <desc lang="en">NA</desc>
-  </programme>
-  <programme start="20220707081200 +0000" stop="20220707082000 +0000" channel="AGRtv.play.nezlabs.ml">
+  <programme start="20220707080500 +0000" stop="20220707081300 +0000" channel="AGRtv.play.nezlabs.ml">
     <title lang="en">[bad YTP] Steve Balmer tries to sell T-Bone's IBM PC</title>
     <desc lang="en">Windows everybody?</desc>
   </programme>
-  <programme start="20220707082000 +0000" stop="20220707082500 +0000" channel="AGRtv.play.nezlabs.ml">
-    <title lang="en">(Hopefully) The Most Accurate Nintendo Startup History</title>
-    <desc lang="en">This is most accurate startup ever.</desc>
-  </programme>
-  <programme start="20220707082500 +0000" stop="20220707082600 +0000" channel="AGRtv.play.nezlabs.ml">
+  <programme start="20220707081300 +0000" stop="20220707081400 +0000" channel="AGRtv.play.nezlabs.ml">
     <title lang="en">Welcome to the test broadcast!</title>
     <desc lang="en">NA</desc>
   </programme>
-  <programme start="20220707082600 +0000" stop="20220707083400 +0000" channel="AGRtv.play.nezlabs.ml">
-    <title lang="en">[bad YTP] Steve Balmer tries to sell T-Bone's IBM PC</title>
-    <desc lang="en">Windows everybody?</desc>
-  </programme>
-  <programme start="20220707083400 +0000" stop="20220707083500 +0000" channel="AGRtv.play.nezlabs.ml">
+  <programme start="20220707081400 +0000" stop="20220707081500 +0000" channel="AGRtv.play.nezlabs.ml">
     <title lang="en">AGR Trailer</title>
     <desc lang="en">Welcome to my channel! Full of memes and stuff! (Inspired by the Windows 98 ad)</desc>
   </programme>
-  <programme start="20220707083500 +0000" stop="20220707084500 +0000" channel="AGRtv.play.nezlabs.ml">
+  <programme start="20220707081500 +0000" stop="20220707082000 +0000" channel="AGRtv.play.nezlabs.ml">
+    <title lang="en">(Hopefully) The Most Accurate Nintendo Startup History</title>
+    <desc lang="en">This is most accurate startup ever.</desc>
+  </programme>
+  <programme start="20220707082000 +0000" stop="20220707082800 +0000" channel="AGRtv.play.nezlabs.ml">
+    <title lang="en">[bad YTP] Steve Balmer tries to sell T-Bone's IBM PC</title>
+    <desc lang="en">Windows everybody?</desc>
+  </programme>
+  <programme start="20220707082800 +0000" stop="20220707082900 +0000" channel="AGRtv.play.nezlabs.ml">
+    <title lang="en">Welcome to the test broadcast!</title>
+    <desc lang="en">NA</desc>
+  </programme>
+  <programme start="20220707082900 +0000" stop="20220707083900 +0000" channel="AGRtv.play.nezlabs.ml">
     <title lang="en">(OUTDATED) How to set up EKA2L1 + Gameplay (Symbian on Android, PC, Linux and macOS!)</title>
     <desc lang="en">Hello guys, and I'm gonna teach you how to set up EKA2L1. Let's go!</desc>
+  </programme>
+  <programme start="20220707083900 +0000" stop="20220707084400 +0000" channel="AGRtv.play.nezlabs.ml">
+    <title lang="en">(Hopefully) The Most Accurate Nintendo Startup History</title>
+    <desc lang="en">This is most accurate startup ever.</desc>
+  </programme>
+  <programme start="20220707084400 +0000" stop="20220707084500 +0000" channel="AGRtv.play.nezlabs.ml">
+    <title lang="en">AGR Trailer</title>
+    <desc lang="en">Welcome to my channel! Full of memes and stuff! (Inspired by the Windows 98 ad)</desc>
   </programme>
   <programme start="20220707084500 +0000" stop="20220707085500 +0000" channel="AGRtv.play.nezlabs.ml">
     <title lang="en">(OUTDATED) How to set up EKA2L1 + Gameplay (Symbian on Android, PC, Linux and macOS!)</title>
     <desc lang="en">Hello guys, and I'm gonna teach you how to set up EKA2L1. Let's go!</desc>
   </programme>
-  <programme start="20220707085500 +0000" stop="20220707090000 +0000" channel="AGRtv.play.nezlabs.ml">
-    <title lang="en">(Hopefully) The Most Accurate Nintendo Startup History</title>
-    <desc lang="en">This is most accurate startup ever.</desc>
-  </programme>
-  <programme start="20220707090000 +0000" stop="20220707090100 +0000" channel="AGRtv.play.nezlabs.ml">
-    <title lang="en">AGR Trailer</title>
-    <desc lang="en">Welcome to my channel! Full of memes and stuff! (Inspired by the Windows 98 ad)</desc>
-  </programme>
-  <programme start="20220707090100 +0000" stop="20220707090900 +0000" channel="AGRtv.play.nezlabs.ml">
+  <programme start="20220707085500 +0000" stop="20220707090300 +0000" channel="AGRtv.play.nezlabs.ml">
     <title lang="en">[bad YTP] Steve Balmer tries to sell T-Bone's IBM PC</title>
     <desc lang="en">Windows everybody?</desc>
   </programme>
-  <programme start="20220707090900 +0000" stop="20220707091000 +0000" channel="AGRtv.play.nezlabs.ml">
+  <programme start="20220707090300 +0000" stop="20220707090400 +0000" channel="AGRtv.play.nezlabs.ml">
+    <title lang="en">AGR Trailer</title>
+    <desc lang="en">Welcome to my channel! Full of memes and stuff! (Inspired by the Windows 98 ad)</desc>
+  </programme>
+  <programme start="20220707090400 +0000" stop="20220707090500 +0000" channel="AGRtv.play.nezlabs.ml">
     <title lang="en">Welcome to the test broadcast!</title>
     <desc lang="en">NA</desc>
+  </programme>
+  <programme start="20220707090500 +0000" stop="20220707091000 +0000" channel="AGRtv.play.nezlabs.ml">
+    <title lang="en">(Hopefully) The Most Accurate Nintendo Startup History</title>
+    <desc lang="en">This is most accurate startup ever.</desc>
   </programme>
   <programme start="20220707091000 +0000" stop="20220707092000 +0000" channel="AGRtv.play.nezlabs.ml">
     <title lang="en">(OUTDATED) How to set up EKA2L1 + Gameplay (Symbian on Android, PC, Linux and macOS!)</title>
     <desc lang="en">Hello guys, and I'm gonna teach you how to set up EKA2L1. Let's go!</desc>
   </programme>
-  <programme start="20220707092000 +0000" stop="20220707092500 +0000" channel="AGRtv.play.nezlabs.ml">
+  <programme start="20220707092000 +0000" stop="20220707092100 +0000" channel="AGRtv.play.nezlabs.ml">
+    <title lang="en">AGR Trailer</title>
+    <desc lang="en">Welcome to my channel! Full of memes and stuff! (Inspired by the Windows 98 ad)</desc>
+  </programme>
+  <programme start="20220707092100 +0000" stop="20220707092600 +0000" channel="AGRtv.play.nezlabs.ml">
     <title lang="en">(Hopefully) The Most Accurate Nintendo Startup History</title>
     <desc lang="en">This is most accurate startup ever.</desc>
   </programme>
-  <programme start="20220707092500 +0000" stop="20220707093300 +0000" channel="AGRtv.play.nezlabs.ml">
+  <programme start="20220707092600 +0000" stop="20220707093400 +0000" channel="AGRtv.play.nezlabs.ml">
     <title lang="en">[bad YTP] Steve Balmer tries to sell T-Bone's IBM PC</title>
     <desc lang="en">Windows everybody?</desc>
-  </programme>
-  <programme start="20220707093300 +0000" stop="20220707093400 +0000" channel="AGRtv.play.nezlabs.ml">
-    <title lang="en">AGR Trailer</title>
-    <desc lang="en">Welcome to my channel! Full of memes and stuff! (Inspired by the Windows 98 ad)</desc>
   </programme>
   <programme start="20220707093400 +0000" stop="20220707093500 +0000" channel="AGRtv.play.nezlabs.ml">
     <title lang="en">Welcome to the test broadcast!</title>
     <desc lang="en">NA</desc>
   </programme>
-  <programme start="20220707093500 +0000" stop="20220707094500 +0000" channel="AGRtv.play.nezlabs.ml">
-    <title lang="en">(OUTDATED) How to set up EKA2L1 + Gameplay (Symbian on Android, PC, Linux and macOS!)</title>
-    <desc lang="en">Hello guys, and I'm gonna teach you how to set up EKA2L1. Let's go!</desc>
-  </programme>
-  <programme start="20220707094500 +0000" stop="20220707094600 +0000" channel="AGRtv.play.nezlabs.ml">
-    <title lang="en">Welcome to the test broadcast!</title>
-    <desc lang="en">NA</desc>
-  </programme>
-  <programme start="20220707094600 +0000" stop="20220707095100 +0000" channel="AGRtv.play.nezlabs.ml">
-    <title lang="en">(Hopefully) The Most Accurate Nintendo Startup History</title>
-    <desc lang="en">This is most accurate startup ever.</desc>
-  </programme>
-  <programme start="20220707095100 +0000" stop="20220707095900 +0000" channel="AGRtv.play.nezlabs.ml">
+  <programme start="20220707093500 +0000" stop="20220707094300 +0000" channel="AGRtv.play.nezlabs.ml">
     <title lang="en">[bad YTP] Steve Balmer tries to sell T-Bone's IBM PC</title>
     <desc lang="en">Windows everybody?</desc>
   </programme>
-  <programme start="20220707095900 +0000" stop="20220707100000 +0000" channel="AGRtv.play.nezlabs.ml">
+  <programme start="20220707094300 +0000" stop="20220707094400 +0000" channel="AGRtv.play.nezlabs.ml">
     <title lang="en">AGR Trailer</title>
     <desc lang="en">Welcome to my channel! Full of memes and stuff! (Inspired by the Windows 98 ad)</desc>
   </programme>
-  <programme start="20220707100000 +0000" stop="20220707100100 +0000" channel="AGRtv.play.nezlabs.ml">
-    <title lang="en">Welcome to the test broadcast!</title>
-    <desc lang="en">NA</desc>
-  </programme>
-  <programme start="20220707100100 +0000" stop="20220707101100 +0000" channel="AGRtv.play.nezlabs.ml">
+  <programme start="20220707094400 +0000" stop="20220707095400 +0000" channel="AGRtv.play.nezlabs.ml">
     <title lang="en">(OUTDATED) How to set up EKA2L1 + Gameplay (Symbian on Android, PC, Linux and macOS!)</title>
     <desc lang="en">Hello guys, and I'm gonna teach you how to set up EKA2L1. Let's go!</desc>
   </programme>
-  <programme start="20220707101100 +0000" stop="20220707101600 +0000" channel="AGRtv.play.nezlabs.ml">
+  <programme start="20220707095400 +0000" stop="20220707095500 +0000" channel="AGRtv.play.nezlabs.ml">
+    <title lang="en">Welcome to the test broadcast!</title>
+    <desc lang="en">NA</desc>
+  </programme>
+  <programme start="20220707095500 +0000" stop="20220707100000 +0000" channel="AGRtv.play.nezlabs.ml">
     <title lang="en">(Hopefully) The Most Accurate Nintendo Startup History</title>
     <desc lang="en">This is most accurate startup ever.</desc>
   </programme>
-  <programme start="20220707101600 +0000" stop="20220707101700 +0000" channel="AGRtv.play.nezlabs.ml">
+  <programme start="20220707100000 +0000" stop="20220707100800 +0000" channel="AGRtv.play.nezlabs.ml">
+    <title lang="en">[bad YTP] Steve Balmer tries to sell T-Bone's IBM PC</title>
+    <desc lang="en">Windows everybody?</desc>
+  </programme>
+  <programme start="20220707100800 +0000" stop="20220707101300 +0000" channel="AGRtv.play.nezlabs.ml">
+    <title lang="en">(Hopefully) The Most Accurate Nintendo Startup History</title>
+    <desc lang="en">This is most accurate startup ever.</desc>
+  </programme>
+  <programme start="20220707101300 +0000" stop="20220707101400 +0000" channel="AGRtv.play.nezlabs.ml">
     <title lang="en">AGR Trailer</title>
     <desc lang="en">Welcome to my channel! Full of memes and stuff! (Inspired by the Windows 98 ad)</desc>
   </programme>
-  <programme start="20220707101700 +0000" stop="20220707102500 +0000" channel="AGRtv.play.nezlabs.ml">
-    <title lang="en">[bad YTP] Steve Balmer tries to sell T-Bone's IBM PC</title>
-    <desc lang="en">Windows everybody?</desc>
+  <programme start="20220707101400 +0000" stop="20220707102400 +0000" channel="AGRtv.play.nezlabs.ml">
+    <title lang="en">(OUTDATED) How to set up EKA2L1 + Gameplay (Symbian on Android, PC, Linux and macOS!)</title>
+    <desc lang="en">Hello guys, and I'm gonna teach you how to set up EKA2L1. Let's go!</desc>
+  </programme>
+  <programme start="20220707102400 +0000" stop="20220707102500 +0000" channel="AGRtv.play.nezlabs.ml">
+    <title lang="en">Welcome to the test broadcast!</title>
+    <desc lang="en">NA</desc>
   </programme>
   <programme start="20220707102500 +0000" stop="20220707102600 +0000" channel="AGRtv.play.nezlabs.ml">
-    <title lang="en">Welcome to the test broadcast!</title>
-    <desc lang="en">NA</desc>
-  </programme>
-  <programme start="20220707102600 +0000" stop="20220707103600 +0000" channel="AGRtv.play.nezlabs.ml">
-    <title lang="en">(OUTDATED) How to set up EKA2L1 + Gameplay (Symbian on Android, PC, Linux and macOS!)</title>
-    <desc lang="en">Hello guys, and I'm gonna teach you how to set up EKA2L1. Let's go!</desc>
-  </programme>
-  <programme start="20220707103600 +0000" stop="20220707103700 +0000" channel="AGRtv.play.nezlabs.ml">
     <title lang="en">AGR Trailer</title>
     <desc lang="en">Welcome to my channel! Full of memes and stuff! (Inspired by the Windows 98 ad)</desc>
   </programme>
-  <programme start="20220707103700 +0000" stop="20220707104200 +0000" channel="AGRtv.play.nezlabs.ml">
+  <programme start="20220707102600 +0000" stop="20220707103100 +0000" channel="AGRtv.play.nezlabs.ml">
     <title lang="en">(Hopefully) The Most Accurate Nintendo Startup History</title>
     <desc lang="en">This is most accurate startup ever.</desc>
   </programme>
-  <programme start="20220707104200 +0000" stop="20220707105000 +0000" channel="AGRtv.play.nezlabs.ml">
-    <title lang="en">[bad YTP] Steve Balmer tries to sell T-Bone's IBM PC</title>
-    <desc lang="en">Windows everybody?</desc>
-  </programme>
-  <programme start="20220707105000 +0000" stop="20220707105500 +0000" channel="AGRtv.play.nezlabs.ml">
-    <title lang="en">(Hopefully) The Most Accurate Nintendo Startup History</title>
-    <desc lang="en">This is most accurate startup ever.</desc>
-  </programme>
-  <programme start="20220707105500 +0000" stop="20220707110300 +0000" channel="AGRtv.play.nezlabs.ml">
-    <title lang="en">[bad YTP] Steve Balmer tries to sell T-Bone's IBM PC</title>
-    <desc lang="en">Windows everybody?</desc>
-  </programme>
-  <programme start="20220707110300 +0000" stop="20220707110400 +0000" channel="AGRtv.play.nezlabs.ml">
-    <title lang="en">Welcome to the test broadcast!</title>
-    <desc lang="en">NA</desc>
-  </programme>
-  <programme start="20220707110400 +0000" stop="20220707110500 +0000" channel="AGRtv.play.nezlabs.ml">
-    <title lang="en">AGR Trailer</title>
-    <desc lang="en">Welcome to my channel! Full of memes and stuff! (Inspired by the Windows 98 ad)</desc>
-  </programme>
-  <programme start="20220707110500 +0000" stop="20220707111500 +0000" channel="AGRtv.play.nezlabs.ml">
+  <programme start="20220707103100 +0000" stop="20220707104100 +0000" channel="AGRtv.play.nezlabs.ml">
     <title lang="en">(OUTDATED) How to set up EKA2L1 + Gameplay (Symbian on Android, PC, Linux and macOS!)</title>
     <desc lang="en">Hello guys, and I'm gonna teach you how to set up EKA2L1. Let's go!</desc>
   </programme>
-  <programme start="20220707111500 +0000" stop="20220707111600 +0000" channel="AGRtv.play.nezlabs.ml">
-    <title lang="en">Welcome to the test broadcast!</title>
-    <desc lang="en">NA</desc>
-  </programme>
-  <programme start="20220707111600 +0000" stop="20220707112100 +0000" channel="AGRtv.play.nezlabs.ml">
-    <title lang="en">(Hopefully) The Most Accurate Nintendo Startup History</title>
-    <desc lang="en">This is most accurate startup ever.</desc>
-  </programme>
-  <programme start="20220707112100 +0000" stop="20220707113100 +0000" channel="AGRtv.play.nezlabs.ml">
-    <title lang="en">(OUTDATED) How to set up EKA2L1 + Gameplay (Symbian on Android, PC, Linux and macOS!)</title>
-    <desc lang="en">Hello guys, and I'm gonna teach you how to set up EKA2L1. Let's go!</desc>
-  </programme>
-  <programme start="20220707113100 +0000" stop="20220707113200 +0000" channel="AGRtv.play.nezlabs.ml">
-    <title lang="en">AGR Trailer</title>
-    <desc lang="en">Welcome to my channel! Full of memes and stuff! (Inspired by the Windows 98 ad)</desc>
-  </programme>
-  <programme start="20220707113200 +0000" stop="20220707114000 +0000" channel="AGRtv.play.nezlabs.ml">
+  <programme start="20220707104100 +0000" stop="20220707104900 +0000" channel="AGRtv.play.nezlabs.ml">
     <title lang="en">[bad YTP] Steve Balmer tries to sell T-Bone's IBM PC</title>
     <desc lang="en">Windows everybody?</desc>
   </programme>
-  <programme start="20220707114000 +0000" stop="20220707114100 +0000" channel="AGRtv.play.nezlabs.ml">
+  <programme start="20220707104900 +0000" stop="20220707105000 +0000" channel="AGRtv.play.nezlabs.ml">
     <title lang="en">Welcome to the test broadcast!</title>
     <desc lang="en">NA</desc>
   </programme>
-  <programme start="20220707114100 +0000" stop="20220707114200 +0000" channel="AGRtv.play.nezlabs.ml">
-    <title lang="en">AGR Trailer</title>
-    <desc lang="en">Welcome to my channel! Full of memes and stuff! (Inspired by the Windows 98 ad)</desc>
-  </programme>
-  <programme start="20220707114200 +0000" stop="20220707114700 +0000" channel="AGRtv.play.nezlabs.ml">
-    <title lang="en">(Hopefully) The Most Accurate Nintendo Startup History</title>
-    <desc lang="en">This is most accurate startup ever.</desc>
-  </programme>
-  <programme start="20220707114700 +0000" stop="20220707115500 +0000" channel="AGRtv.play.nezlabs.ml">
-    <title lang="en">[bad YTP] Steve Balmer tries to sell T-Bone's IBM PC</title>
-    <desc lang="en">Windows everybody?</desc>
-  </programme>
-  <programme start="20220707115500 +0000" stop="20220707120500 +0000" channel="AGRtv.play.nezlabs.ml">
+  <programme start="20220707105000 +0000" stop="20220707110000 +0000" channel="AGRtv.play.nezlabs.ml">
     <title lang="en">(OUTDATED) How to set up EKA2L1 + Gameplay (Symbian on Android, PC, Linux and macOS!)</title>
     <desc lang="en">Hello guys, and I'm gonna teach you how to set up EKA2L1. Let's go!</desc>
   </programme>
-  <programme start="20220707120500 +0000" stop="20220707121000 +0000" channel="AGRtv.play.nezlabs.ml">
-    <title lang="en">(Hopefully) The Most Accurate Nintendo Startup History</title>
-    <desc lang="en">This is most accurate startup ever.</desc>
-  </programme>
-  <programme start="20220707121000 +0000" stop="20220707122000 +0000" channel="AGRtv.play.nezlabs.ml">
-    <title lang="en">(OUTDATED) How to set up EKA2L1 + Gameplay (Symbian on Android, PC, Linux and macOS!)</title>
-    <desc lang="en">Hello guys, and I'm gonna teach you how to set up EKA2L1. Let's go!</desc>
-  </programme>
-  <programme start="20220707122000 +0000" stop="20220707122800 +0000" channel="AGRtv.play.nezlabs.ml">
+  <programme start="20220707110000 +0000" stop="20220707110800 +0000" channel="AGRtv.play.nezlabs.ml">
     <title lang="en">[bad YTP] Steve Balmer tries to sell T-Bone's IBM PC</title>
     <desc lang="en">Windows everybody?</desc>
   </programme>
-  <programme start="20220707122800 +0000" stop="20220707122900 +0000" channel="AGRtv.play.nezlabs.ml">
+  <programme start="20220707110800 +0000" stop="20220707111300 +0000" channel="AGRtv.play.nezlabs.ml">
+    <title lang="en">(Hopefully) The Most Accurate Nintendo Startup History</title>
+    <desc lang="en">This is most accurate startup ever.</desc>
+  </programme>
+  <programme start="20220707111300 +0000" stop="20220707111400 +0000" channel="AGRtv.play.nezlabs.ml">
     <title lang="en">AGR Trailer</title>
     <desc lang="en">Welcome to my channel! Full of memes and stuff! (Inspired by the Windows 98 ad)</desc>
   </programme>
-  <programme start="20220707122900 +0000" stop="20220707123000 +0000" channel="AGRtv.play.nezlabs.ml">
+  <programme start="20220707111400 +0000" stop="20220707111500 +0000" channel="AGRtv.play.nezlabs.ml">
     <title lang="en">Welcome to the test broadcast!</title>
     <desc lang="en">NA</desc>
+  </programme>
+  <programme start="20220707111500 +0000" stop="20220707112500 +0000" channel="AGRtv.play.nezlabs.ml">
+    <title lang="en">(OUTDATED) How to set up EKA2L1 + Gameplay (Symbian on Android, PC, Linux and macOS!)</title>
+    <desc lang="en">Hello guys, and I'm gonna teach you how to set up EKA2L1. Let's go!</desc>
+  </programme>
+  <programme start="20220707112500 +0000" stop="20220707113000 +0000" channel="AGRtv.play.nezlabs.ml">
+    <title lang="en">(Hopefully) The Most Accurate Nintendo Startup History</title>
+    <desc lang="en">This is most accurate startup ever.</desc>
+  </programme>
+  <programme start="20220707113000 +0000" stop="20220707113100 +0000" channel="AGRtv.play.nezlabs.ml">
+    <title lang="en">Welcome to the test broadcast!</title>
+    <desc lang="en">NA</desc>
+  </programme>
+  <programme start="20220707113100 +0000" stop="20220707113900 +0000" channel="AGRtv.play.nezlabs.ml">
+    <title lang="en">[bad YTP] Steve Balmer tries to sell T-Bone's IBM PC</title>
+    <desc lang="en">Windows everybody?</desc>
+  </programme>
+  <programme start="20220707113900 +0000" stop="20220707114000 +0000" channel="AGRtv.play.nezlabs.ml">
+    <title lang="en">AGR Trailer</title>
+    <desc lang="en">Welcome to my channel! Full of memes and stuff! (Inspired by the Windows 98 ad)</desc>
+  </programme>
+  <programme start="20220707114000 +0000" stop="20220707114500 +0000" channel="AGRtv.play.nezlabs.ml">
+    <title lang="en">(Hopefully) The Most Accurate Nintendo Startup History</title>
+    <desc lang="en">This is most accurate startup ever.</desc>
+  </programme>
+  <programme start="20220707114500 +0000" stop="20220707114600 +0000" channel="AGRtv.play.nezlabs.ml">
+    <title lang="en">AGR Trailer</title>
+    <desc lang="en">Welcome to my channel! Full of memes and stuff! (Inspired by the Windows 98 ad)</desc>
+  </programme>
+  <programme start="20220707114600 +0000" stop="20220707115600 +0000" channel="AGRtv.play.nezlabs.ml">
+    <title lang="en">(OUTDATED) How to set up EKA2L1 + Gameplay (Symbian on Android, PC, Linux and macOS!)</title>
+    <desc lang="en">Hello guys, and I'm gonna teach you how to set up EKA2L1. Let's go!</desc>
+  </programme>
+  <programme start="20220707115600 +0000" stop="20220707115700 +0000" channel="AGRtv.play.nezlabs.ml">
+    <title lang="en">Welcome to the test broadcast!</title>
+    <desc lang="en">NA</desc>
+  </programme>
+  <programme start="20220707115700 +0000" stop="20220707120500 +0000" channel="AGRtv.play.nezlabs.ml">
+    <title lang="en">[bad YTP] Steve Balmer tries to sell T-Bone's IBM PC</title>
+    <desc lang="en">Windows everybody?</desc>
+  </programme>
+  <programme start="20220707120500 +0000" stop="20220707120600 +0000" channel="AGRtv.play.nezlabs.ml">
+    <title lang="en">AGR Trailer</title>
+    <desc lang="en">Welcome to my channel! Full of memes and stuff! (Inspired by the Windows 98 ad)</desc>
+  </programme>
+  <programme start="20220707120600 +0000" stop="20220707120700 +0000" channel="AGRtv.play.nezlabs.ml">
+    <title lang="en">Welcome to the test broadcast!</title>
+    <desc lang="en">NA</desc>
+  </programme>
+  <programme start="20220707120700 +0000" stop="20220707121200 +0000" channel="AGRtv.play.nezlabs.ml">
+    <title lang="en">(Hopefully) The Most Accurate Nintendo Startup History</title>
+    <desc lang="en">This is most accurate startup ever.</desc>
+  </programme>
+  <programme start="20220707121200 +0000" stop="20220707122200 +0000" channel="AGRtv.play.nezlabs.ml">
+    <title lang="en">(OUTDATED) How to set up EKA2L1 + Gameplay (Symbian on Android, PC, Linux and macOS!)</title>
+    <desc lang="en">Hello guys, and I'm gonna teach you how to set up EKA2L1. Let's go!</desc>
+  </programme>
+  <programme start="20220707122200 +0000" stop="20220707123000 +0000" channel="AGRtv.play.nezlabs.ml">
+    <title lang="en">[bad YTP] Steve Balmer tries to sell T-Bone's IBM PC</title>
+    <desc lang="en">Windows everybody?</desc>
   </programme>
   <programme start="20220707123000 +0000" stop="20220707123100 +0000" channel="AGRtv.play.nezlabs.ml">
-    <title lang="en">AGR Trailer</title>
-    <desc lang="en">Welcome to my channel! Full of memes and stuff! (Inspired by the Windows 98 ad)</desc>
-  </programme>
-  <programme start="20220707123100 +0000" stop="20220707123900 +0000" channel="AGRtv.play.nezlabs.ml">
-    <title lang="en">[bad YTP] Steve Balmer tries to sell T-Bone's IBM PC</title>
-    <desc lang="en">Windows everybody?</desc>
-  </programme>
-  <programme start="20220707123900 +0000" stop="20220707124000 +0000" channel="AGRtv.play.nezlabs.ml">
     <title lang="en">Welcome to the test broadcast!</title>
     <desc lang="en">NA</desc>
   </programme>
-  <programme start="20220707124000 +0000" stop="20220707124500 +0000" channel="AGRtv.play.nezlabs.ml">
+  <programme start="20220707123100 +0000" stop="20220707123600 +0000" channel="AGRtv.play.nezlabs.ml">
     <title lang="en">(Hopefully) The Most Accurate Nintendo Startup History</title>
     <desc lang="en">This is most accurate startup ever.</desc>
   </programme>
-  <programme start="20220707124500 +0000" stop="20220707125500 +0000" channel="AGRtv.play.nezlabs.ml">
+  <programme start="20220707123600 +0000" stop="20220707124600 +0000" channel="AGRtv.play.nezlabs.ml">
     <title lang="en">(OUTDATED) How to set up EKA2L1 + Gameplay (Symbian on Android, PC, Linux and macOS!)</title>
     <desc lang="en">Hello guys, and I'm gonna teach you how to set up EKA2L1. Let's go!</desc>
   </programme>
-  <programme start="20220707125500 +0000" stop="20220707130000 +0000" channel="AGRtv.play.nezlabs.ml">
-    <title lang="en">(Hopefully) The Most Accurate Nintendo Startup History</title>
-    <desc lang="en">This is most accurate startup ever.</desc>
-  </programme>
-  <programme start="20220707130000 +0000" stop="20220707131000 +0000" channel="AGRtv.play.nezlabs.ml">
-    <title lang="en">(OUTDATED) How to set up EKA2L1 + Gameplay (Symbian on Android, PC, Linux and macOS!)</title>
-    <desc lang="en">Hello guys, and I'm gonna teach you how to set up EKA2L1. Let's go!</desc>
-  </programme>
-  <programme start="20220707131000 +0000" stop="20220707131100 +0000" channel="AGRtv.play.nezlabs.ml">
+  <programme start="20220707124600 +0000" stop="20220707124700 +0000" channel="AGRtv.play.nezlabs.ml">
     <title lang="en">AGR Trailer</title>
     <desc lang="en">Welcome to my channel! Full of memes and stuff! (Inspired by the Windows 98 ad)</desc>
   </programme>
-  <programme start="20220707131100 +0000" stop="20220707131900 +0000" channel="AGRtv.play.nezlabs.ml">
+  <programme start="20220707124700 +0000" stop="20220707125500 +0000" channel="AGRtv.play.nezlabs.ml">
     <title lang="en">[bad YTP] Steve Balmer tries to sell T-Bone's IBM PC</title>
     <desc lang="en">Windows everybody?</desc>
+  </programme>
+  <programme start="20220707125500 +0000" stop="20220707125600 +0000" channel="AGRtv.play.nezlabs.ml">
+    <title lang="en">Welcome to the test broadcast!</title>
+    <desc lang="en">NA</desc>
+  </programme>
+  <programme start="20220707125600 +0000" stop="20220707130400 +0000" channel="AGRtv.play.nezlabs.ml">
+    <title lang="en">[bad YTP] Steve Balmer tries to sell T-Bone's IBM PC</title>
+    <desc lang="en">Windows everybody?</desc>
+  </programme>
+  <programme start="20220707130400 +0000" stop="20220707131400 +0000" channel="AGRtv.play.nezlabs.ml">
+    <title lang="en">(OUTDATED) How to set up EKA2L1 + Gameplay (Symbian on Android, PC, Linux and macOS!)</title>
+    <desc lang="en">Hello guys, and I'm gonna teach you how to set up EKA2L1. Let's go!</desc>
+  </programme>
+  <programme start="20220707131400 +0000" stop="20220707131900 +0000" channel="AGRtv.play.nezlabs.ml">
+    <title lang="en">(Hopefully) The Most Accurate Nintendo Startup History</title>
+    <desc lang="en">This is most accurate startup ever.</desc>
   </programme>
   <programme start="20220707131900 +0000" stop="20220707132000 +0000" channel="AGRtv.play.nezlabs.ml">
-    <title lang="en">Welcome to the test broadcast!</title>
-    <desc lang="en">NA</desc>
-  </programme>
-  <programme start="20220707132000 +0000" stop="20220707132100 +0000" channel="AGRtv.play.nezlabs.ml">
     <title lang="en">AGR Trailer</title>
     <desc lang="en">Welcome to my channel! Full of memes and stuff! (Inspired by the Windows 98 ad)</desc>
   </programme>
-  <programme start="20220707132100 +0000" stop="20220707132600 +0000" channel="AGRtv.play.nezlabs.ml">
+  <programme start="20220707132000 +0000" stop="20220707133000 +0000" channel="AGRtv.play.nezlabs.ml">
+    <title lang="en">(OUTDATED) How to set up EKA2L1 + Gameplay (Symbian on Android, PC, Linux and macOS!)</title>
+    <desc lang="en">Hello guys, and I'm gonna teach you how to set up EKA2L1. Let's go!</desc>
+  </programme>
+  <programme start="20220707133000 +0000" stop="20220707133100 +0000" channel="AGRtv.play.nezlabs.ml">
+    <title lang="en">AGR Trailer</title>
+    <desc lang="en">Welcome to my channel! Full of memes and stuff! (Inspired by the Windows 98 ad)</desc>
+  </programme>
+  <programme start="20220707133100 +0000" stop="20220707133600 +0000" channel="AGRtv.play.nezlabs.ml">
     <title lang="en">(Hopefully) The Most Accurate Nintendo Startup History</title>
     <desc lang="en">This is most accurate startup ever.</desc>
   </programme>
-  <programme start="20220707132600 +0000" stop="20220707132700 +0000" channel="AGRtv.play.nezlabs.ml">
-    <title lang="en">Welcome to the test broadcast!</title>
-    <desc lang="en">NA</desc>
-  </programme>
-  <programme start="20220707132700 +0000" stop="20220707133500 +0000" channel="AGRtv.play.nezlabs.ml">
+  <programme start="20220707133600 +0000" stop="20220707134400 +0000" channel="AGRtv.play.nezlabs.ml">
     <title lang="en">[bad YTP] Steve Balmer tries to sell T-Bone's IBM PC</title>
     <desc lang="en">Windows everybody?</desc>
   </programme>
-  <programme start="20220707133500 +0000" stop="20220707134500 +0000" channel="AGRtv.play.nezlabs.ml">
-    <title lang="en">(OUTDATED) How to set up EKA2L1 + Gameplay (Symbian on Android, PC, Linux and macOS!)</title>
-    <desc lang="en">Hello guys, and I'm gonna teach you how to set up EKA2L1. Let's go!</desc>
+  <programme start="20220707134400 +0000" stop="20220707134500 +0000" channel="AGRtv.play.nezlabs.ml">
+    <title lang="en">Welcome to the test broadcast!</title>
+    <desc lang="en">NA</desc>
   </programme>
   <programme start="20220707134500 +0000" stop="20220707134600 +0000" channel="AGRtv.play.nezlabs.ml">
     <title lang="en">AGR Trailer</title>
     <desc lang="en">Welcome to my channel! Full of memes and stuff! (Inspired by the Windows 98 ad)</desc>
   </programme>
-  <programme start="20220707134600 +0000" stop="20220707135600 +0000" channel="AGRtv.play.nezlabs.ml">
-    <title lang="en">(OUTDATED) How to set up EKA2L1 + Gameplay (Symbian on Android, PC, Linux and macOS!)</title>
-    <desc lang="en">Hello guys, and I'm gonna teach you how to set up EKA2L1. Let's go!</desc>
+  <programme start="20220707134600 +0000" stop="20220707135100 +0000" channel="AGRtv.play.nezlabs.ml">
+    <title lang="en">(Hopefully) The Most Accurate Nintendo Startup History</title>
+    <desc lang="en">This is most accurate startup ever.</desc>
   </programme>
-  <programme start="20220707135600 +0000" stop="20220707135700 +0000" channel="AGRtv.play.nezlabs.ml">
+  <programme start="20220707135100 +0000" stop="20220707135200 +0000" channel="AGRtv.play.nezlabs.ml">
     <title lang="en">Welcome to the test broadcast!</title>
     <desc lang="en">NA</desc>
   </programme>
-  <programme start="20220707135700 +0000" stop="20220707140500 +0000" channel="AGRtv.play.nezlabs.ml">
-    <title lang="en">[bad YTP] Steve Balmer tries to sell T-Bone's IBM PC</title>
-    <desc lang="en">Windows everybody?</desc>
-  </programme>
-  <programme start="20220707140500 +0000" stop="20220707141000 +0000" channel="AGRtv.play.nezlabs.ml">
-    <title lang="en">(Hopefully) The Most Accurate Nintendo Startup History</title>
-    <desc lang="en">This is most accurate startup ever.</desc>
-  </programme>
-  <programme start="20220707141000 +0000" stop="20220707141500 +0000" channel="AGRtv.play.nezlabs.ml">
-    <title lang="en">(Hopefully) The Most Accurate Nintendo Startup History</title>
-    <desc lang="en">This is most accurate startup ever.</desc>
-  </programme>
-  <programme start="20220707141500 +0000" stop="20220707142300 +0000" channel="AGRtv.play.nezlabs.ml">
-    <title lang="en">[bad YTP] Steve Balmer tries to sell T-Bone's IBM PC</title>
-    <desc lang="en">Windows everybody?</desc>
-  </programme>
-  <programme start="20220707142300 +0000" stop="20220707143300 +0000" channel="AGRtv.play.nezlabs.ml">
+  <programme start="20220707135200 +0000" stop="20220707140200 +0000" channel="AGRtv.play.nezlabs.ml">
     <title lang="en">(OUTDATED) How to set up EKA2L1 + Gameplay (Symbian on Android, PC, Linux and macOS!)</title>
     <desc lang="en">Hello guys, and I'm gonna teach you how to set up EKA2L1. Let's go!</desc>
   </programme>
-  <programme start="20220707143300 +0000" stop="20220707143400 +0000" channel="AGRtv.play.nezlabs.ml">
+  <programme start="20220707140200 +0000" stop="20220707141000 +0000" channel="AGRtv.play.nezlabs.ml">
+    <title lang="en">[bad YTP] Steve Balmer tries to sell T-Bone's IBM PC</title>
+    <desc lang="en">Windows everybody?</desc>
+  </programme>
+  <programme start="20220707141000 +0000" stop="20220707142000 +0000" channel="AGRtv.play.nezlabs.ml">
+    <title lang="en">(OUTDATED) How to set up EKA2L1 + Gameplay (Symbian on Android, PC, Linux and macOS!)</title>
+    <desc lang="en">Hello guys, and I'm gonna teach you how to set up EKA2L1. Let's go!</desc>
+  </programme>
+  <programme start="20220707142000 +0000" stop="20220707142800 +0000" channel="AGRtv.play.nezlabs.ml">
+    <title lang="en">[bad YTP] Steve Balmer tries to sell T-Bone's IBM PC</title>
+    <desc lang="en">Windows everybody?</desc>
+  </programme>
+  <programme start="20220707142800 +0000" stop="20220707142900 +0000" channel="AGRtv.play.nezlabs.ml">
+    <title lang="en">Welcome to the test broadcast!</title>
+    <desc lang="en">NA</desc>
+  </programme>
+  <programme start="20220707142900 +0000" stop="20220707143000 +0000" channel="AGRtv.play.nezlabs.ml">
     <title lang="en">AGR Trailer</title>
     <desc lang="en">Welcome to my channel! Full of memes and stuff! (Inspired by the Windows 98 ad)</desc>
   </programme>
-  <programme start="20220707143400 +0000" stop="20220707143500 +0000" channel="AGRtv.play.nezlabs.ml">
-    <title lang="en">Welcome to the test broadcast!</title>
-    <desc lang="en">NA</desc>
+  <programme start="20220707143000 +0000" stop="20220707143500 +0000" channel="AGRtv.play.nezlabs.ml">
+    <title lang="en">(Hopefully) The Most Accurate Nintendo Startup History</title>
+    <desc lang="en">This is most accurate startup ever.</desc>
   </programme>
   <programme start="20220707143500 +0000" stop="20220707143600 +0000" channel="AGRtv.play.nezlabs.ml">
-    <title lang="en">Welcome to the test broadcast!</title>
-    <desc lang="en">NA</desc>
+    <title lang="en">AGR Trailer</title>
+    <desc lang="en">Welcome to my channel! Full of memes and stuff! (Inspired by the Windows 98 ad)</desc>
   </programme>
   <programme start="20220707143600 +0000" stop="20220707144100 +0000" channel="AGRtv.play.nezlabs.ml">
     <title lang="en">(Hopefully) The Most Accurate Nintendo Startup History</title>
     <desc lang="en">This is most accurate startup ever.</desc>
   </programme>
-  <programme start="20220707144100 +0000" stop="20220707144200 +0000" channel="AGRtv.play.nezlabs.ml">
-    <title lang="en">AGR Trailer</title>
-    <desc lang="en">Welcome to my channel! Full of memes and stuff! (Inspired by the Windows 98 ad)</desc>
-  </programme>
-  <programme start="20220707144200 +0000" stop="20220707145200 +0000" channel="AGRtv.play.nezlabs.ml">
+  <programme start="20220707144100 +0000" stop="20220707145100 +0000" channel="AGRtv.play.nezlabs.ml">
     <title lang="en">(OUTDATED) How to set up EKA2L1 + Gameplay (Symbian on Android, PC, Linux and macOS!)</title>
     <desc lang="en">Hello guys, and I'm gonna teach you how to set up EKA2L1. Let's go!</desc>
+  </programme>
+  <programme start="20220707145100 +0000" stop="20220707145200 +0000" channel="AGRtv.play.nezlabs.ml">
+    <title lang="en">Welcome to the test broadcast!</title>
+    <desc lang="en">NA</desc>
   </programme>
   <programme start="20220707145200 +0000" stop="20220707150000 +0000" channel="AGRtv.play.nezlabs.ml">
     <title lang="en">[bad YTP] Steve Balmer tries to sell T-Bone's IBM PC</title>
     <desc lang="en">Windows everybody?</desc>
   </programme>
-  <programme start="20220707150000 +0000" stop="20220707150100 +0000" channel="AGRtv.play.nezlabs.ml">
-    <title lang="en">Welcome to the test broadcast!</title>
-    <desc lang="en">NA</desc>
-  </programme>
-  <programme start="20220707150100 +0000" stop="20220707151100 +0000" channel="AGRtv.play.nezlabs.ml">
-    <title lang="en">(OUTDATED) How to set up EKA2L1 + Gameplay (Symbian on Android, PC, Linux and macOS!)</title>
-    <desc lang="en">Hello guys, and I'm gonna teach you how to set up EKA2L1. Let's go!</desc>
-  </programme>
-  <programme start="20220707151100 +0000" stop="20220707151600 +0000" channel="AGRtv.play.nezlabs.ml">
+  <programme start="20220707150000 +0000" stop="20220707150500 +0000" channel="AGRtv.play.nezlabs.ml">
     <title lang="en">(Hopefully) The Most Accurate Nintendo Startup History</title>
     <desc lang="en">This is most accurate startup ever.</desc>
   </programme>
-  <programme start="20220707151600 +0000" stop="20220707152400 +0000" channel="AGRtv.play.nezlabs.ml">
-    <title lang="en">[bad YTP] Steve Balmer tries to sell T-Bone's IBM PC</title>
-    <desc lang="en">Windows everybody?</desc>
-  </programme>
-  <programme start="20220707152400 +0000" stop="20220707152500 +0000" channel="AGRtv.play.nezlabs.ml">
-    <title lang="en">AGR Trailer</title>
-    <desc lang="en">Welcome to my channel! Full of memes and stuff! (Inspired by the Windows 98 ad)</desc>
-  </programme>
-  <programme start="20220707152500 +0000" stop="20220707153000 +0000" channel="AGRtv.play.nezlabs.ml">
-    <title lang="en">(Hopefully) The Most Accurate Nintendo Startup History</title>
-    <desc lang="en">This is most accurate startup ever.</desc>
-  </programme>
-  <programme start="20220707153000 +0000" stop="20220707153800 +0000" channel="AGRtv.play.nezlabs.ml">
-    <title lang="en">[bad YTP] Steve Balmer tries to sell T-Bone's IBM PC</title>
-    <desc lang="en">Windows everybody?</desc>
-  </programme>
-  <programme start="20220707153800 +0000" stop="20220707153900 +0000" channel="AGRtv.play.nezlabs.ml">
-    <title lang="en">AGR Trailer</title>
-    <desc lang="en">Welcome to my channel! Full of memes and stuff! (Inspired by the Windows 98 ad)</desc>
-  </programme>
-  <programme start="20220707153900 +0000" stop="20220707154000 +0000" channel="AGRtv.play.nezlabs.ml">
-    <title lang="en">Welcome to the test broadcast!</title>
-    <desc lang="en">NA</desc>
-  </programme>
-  <programme start="20220707154000 +0000" stop="20220707155000 +0000" channel="AGRtv.play.nezlabs.ml">
+  <programme start="20220707150500 +0000" stop="20220707151500 +0000" channel="AGRtv.play.nezlabs.ml">
     <title lang="en">(OUTDATED) How to set up EKA2L1 + Gameplay (Symbian on Android, PC, Linux and macOS!)</title>
     <desc lang="en">Hello guys, and I'm gonna teach you how to set up EKA2L1. Let's go!</desc>
   </programme>
-  <programme start="20220707155000 +0000" stop="20220707160000 +0000" channel="AGRtv.play.nezlabs.ml">
-    <title lang="en">(OUTDATED) How to set up EKA2L1 + Gameplay (Symbian on Android, PC, Linux and macOS!)</title>
-    <desc lang="en">Hello guys, and I'm gonna teach you how to set up EKA2L1. Let's go!</desc>
-  </programme>
-  <programme start="20220707160000 +0000" stop="20220707160500 +0000" channel="AGRtv.play.nezlabs.ml">
-    <title lang="en">(Hopefully) The Most Accurate Nintendo Startup History</title>
-    <desc lang="en">This is most accurate startup ever.</desc>
-  </programme>
-  <programme start="20220707160500 +0000" stop="20220707160600 +0000" channel="AGRtv.play.nezlabs.ml">
+  <programme start="20220707151500 +0000" stop="20220707151600 +0000" channel="AGRtv.play.nezlabs.ml">
     <title lang="en">AGR Trailer</title>
     <desc lang="en">Welcome to my channel! Full of memes and stuff! (Inspired by the Windows 98 ad)</desc>
   </programme>
-  <programme start="20220707160600 +0000" stop="20220707161400 +0000" channel="AGRtv.play.nezlabs.ml">
+  <programme start="20220707151600 +0000" stop="20220707151700 +0000" channel="AGRtv.play.nezlabs.ml">
+    <title lang="en">Welcome to the test broadcast!</title>
+    <desc lang="en">NA</desc>
+  </programme>
+  <programme start="20220707151700 +0000" stop="20220707152500 +0000" channel="AGRtv.play.nezlabs.ml">
     <title lang="en">[bad YTP] Steve Balmer tries to sell T-Bone's IBM PC</title>
     <desc lang="en">Windows everybody?</desc>
   </programme>
-  <programme start="20220707161400 +0000" stop="20220707161500 +0000" channel="AGRtv.play.nezlabs.ml">
+  <programme start="20220707152500 +0000" stop="20220707152600 +0000" channel="AGRtv.play.nezlabs.ml">
+    <title lang="en">AGR Trailer</title>
+    <desc lang="en">Welcome to my channel! Full of memes and stuff! (Inspired by the Windows 98 ad)</desc>
+  </programme>
+  <programme start="20220707152600 +0000" stop="20220707153100 +0000" channel="AGRtv.play.nezlabs.ml">
+    <title lang="en">(Hopefully) The Most Accurate Nintendo Startup History</title>
+    <desc lang="en">This is most accurate startup ever.</desc>
+  </programme>
+  <programme start="20220707153100 +0000" stop="20220707153900 +0000" channel="AGRtv.play.nezlabs.ml">
+    <title lang="en">[bad YTP] Steve Balmer tries to sell T-Bone's IBM PC</title>
+    <desc lang="en">Windows everybody?</desc>
+  </programme>
+  <programme start="20220707153900 +0000" stop="20220707154900 +0000" channel="AGRtv.play.nezlabs.ml">
+    <title lang="en">(OUTDATED) How to set up EKA2L1 + Gameplay (Symbian on Android, PC, Linux and macOS!)</title>
+    <desc lang="en">Hello guys, and I'm gonna teach you how to set up EKA2L1. Let's go!</desc>
+  </programme>
+  <programme start="20220707154900 +0000" stop="20220707155000 +0000" channel="AGRtv.play.nezlabs.ml">
     <title lang="en">Welcome to the test broadcast!</title>
     <desc lang="en">NA</desc>
+  </programme>
+  <programme start="20220707155000 +0000" stop="20220707155100 +0000" channel="AGRtv.play.nezlabs.ml">
+    <title lang="en">AGR Trailer</title>
+    <desc lang="en">Welcome to my channel! Full of memes and stuff! (Inspired by the Windows 98 ad)</desc>
+  </programme>
+  <programme start="20220707155100 +0000" stop="20220707155200 +0000" channel="AGRtv.play.nezlabs.ml">
+    <title lang="en">Welcome to the test broadcast!</title>
+    <desc lang="en">NA</desc>
+  </programme>
+  <programme start="20220707155200 +0000" stop="20220707155700 +0000" channel="AGRtv.play.nezlabs.ml">
+    <title lang="en">(Hopefully) The Most Accurate Nintendo Startup History</title>
+    <desc lang="en">This is most accurate startup ever.</desc>
+  </programme>
+  <programme start="20220707155700 +0000" stop="20220707160500 +0000" channel="AGRtv.play.nezlabs.ml">
+    <title lang="en">[bad YTP] Steve Balmer tries to sell T-Bone's IBM PC</title>
+    <desc lang="en">Windows everybody?</desc>
+  </programme>
+  <programme start="20220707160500 +0000" stop="20220707161500 +0000" channel="AGRtv.play.nezlabs.ml">
+    <title lang="en">(OUTDATED) How to set up EKA2L1 + Gameplay (Symbian on Android, PC, Linux and macOS!)</title>
+    <desc lang="en">Hello guys, and I'm gonna teach you how to set up EKA2L1. Let's go!</desc>
   </programme>
   <programme start="20220707161500 +0000" stop="20220707162000 +0000" channel="AGRtv.play.nezlabs.ml">
     <title lang="en">(Hopefully) The Most Accurate Nintendo Startup History</title>
     <desc lang="en">This is most accurate startup ever.</desc>
   </programme>
-  <programme start="20220707162000 +0000" stop="20220707163000 +0000" channel="AGRtv.play.nezlabs.ml">
-    <title lang="en">(OUTDATED) How to set up EKA2L1 + Gameplay (Symbian on Android, PC, Linux and macOS!)</title>
-    <desc lang="en">Hello guys, and I'm gonna teach you how to set up EKA2L1. Let's go!</desc>
+  <programme start="20220707162000 +0000" stop="20220707162800 +0000" channel="AGRtv.play.nezlabs.ml">
+    <title lang="en">[bad YTP] Steve Balmer tries to sell T-Bone's IBM PC</title>
+    <desc lang="en">Windows everybody?</desc>
   </programme>
-  <programme start="20220707163000 +0000" stop="20220707163100 +0000" channel="AGRtv.play.nezlabs.ml">
+  <programme start="20220707162800 +0000" stop="20220707162900 +0000" channel="AGRtv.play.nezlabs.ml">
     <title lang="en">AGR Trailer</title>
     <desc lang="en">Welcome to my channel! Full of memes and stuff! (Inspired by the Windows 98 ad)</desc>
   </programme>
-  <programme start="20220707163100 +0000" stop="20220707163200 +0000" channel="AGRtv.play.nezlabs.ml">
+  <programme start="20220707162900 +0000" stop="20220707163000 +0000" channel="AGRtv.play.nezlabs.ml">
     <title lang="en">Welcome to the test broadcast!</title>
     <desc lang="en">NA</desc>
   </programme>
-  <programme start="20220707163200 +0000" stop="20220707164000 +0000" channel="AGRtv.play.nezlabs.ml">
-    <title lang="en">[bad YTP] Steve Balmer tries to sell T-Bone's IBM PC</title>
-    <desc lang="en">Windows everybody?</desc>
+  <programme start="20220707163000 +0000" stop="20220707164000 +0000" channel="AGRtv.play.nezlabs.ml">
+    <title lang="en">(OUTDATED) How to set up EKA2L1 + Gameplay (Symbian on Android, PC, Linux and macOS!)</title>
+    <desc lang="en">Hello guys, and I'm gonna teach you how to set up EKA2L1. Let's go!</desc>
   </programme>
   <programme start="20220707164000 +0000" stop="20220707164100 +0000" channel="AGRtv.play.nezlabs.ml">
     <title lang="en">AGR Trailer</title>
     <desc lang="en">Welcome to my channel! Full of memes and stuff! (Inspired by the Windows 98 ad)</desc>
   </programme>
-  <programme start="20220707164100 +0000" stop="20220707164900 +0000" channel="AGRtv.play.nezlabs.ml">
-    <title lang="en">[bad YTP] Steve Balmer tries to sell T-Bone's IBM PC</title>
-    <desc lang="en">Windows everybody?</desc>
-  </programme>
-  <programme start="20220707164900 +0000" stop="20220707165400 +0000" channel="AGRtv.play.nezlabs.ml">
+  <programme start="20220707164100 +0000" stop="20220707164600 +0000" channel="AGRtv.play.nezlabs.ml">
     <title lang="en">(Hopefully) The Most Accurate Nintendo Startup History</title>
     <desc lang="en">This is most accurate startup ever.</desc>
   </programme>
-  <programme start="20220707165400 +0000" stop="20220707165500 +0000" channel="AGRtv.play.nezlabs.ml">
-    <title lang="en">Welcome to the test broadcast!</title>
-    <desc lang="en">NA</desc>
+  <programme start="20220707164600 +0000" stop="20220707165400 +0000" channel="AGRtv.play.nezlabs.ml">
+    <title lang="en">[bad YTP] Steve Balmer tries to sell T-Bone's IBM PC</title>
+    <desc lang="en">Windows everybody?</desc>
   </programme>
-  <programme start="20220707165500 +0000" stop="20220707170500 +0000" channel="AGRtv.play.nezlabs.ml">
+  <programme start="20220707165400 +0000" stop="20220707170400 +0000" channel="AGRtv.play.nezlabs.ml">
     <title lang="en">(OUTDATED) How to set up EKA2L1 + Gameplay (Symbian on Android, PC, Linux and macOS!)</title>
     <desc lang="en">Hello guys, and I'm gonna teach you how to set up EKA2L1. Let's go!</desc>
   </programme>
-  <programme start="20220707170500 +0000" stop="20220707170600 +0000" channel="AGRtv.play.nezlabs.ml">
-    <title lang="en">AGR Trailer</title>
-    <desc lang="en">Welcome to my channel! Full of memes and stuff! (Inspired by the Windows 98 ad)</desc>
-  </programme>
-  <programme start="20220707170600 +0000" stop="20220707171100 +0000" channel="AGRtv.play.nezlabs.ml">
-    <title lang="en">(Hopefully) The Most Accurate Nintendo Startup History</title>
-    <desc lang="en">This is most accurate startup ever.</desc>
-  </programme>
-  <programme start="20220707171100 +0000" stop="20220707171200 +0000" channel="AGRtv.play.nezlabs.ml">
+  <programme start="20220707170400 +0000" stop="20220707170500 +0000" channel="AGRtv.play.nezlabs.ml">
     <title lang="en">Welcome to the test broadcast!</title>
     <desc lang="en">NA</desc>
   </programme>
-  <programme start="20220707171200 +0000" stop="20220707172000 +0000" channel="AGRtv.play.nezlabs.ml">
+  <programme start="20220707170500 +0000" stop="20220707171300 +0000" channel="AGRtv.play.nezlabs.ml">
     <title lang="en">[bad YTP] Steve Balmer tries to sell T-Bone's IBM PC</title>
     <desc lang="en">Windows everybody?</desc>
+  </programme>
+  <programme start="20220707171300 +0000" stop="20220707171400 +0000" channel="AGRtv.play.nezlabs.ml">
+    <title lang="en">Welcome to the test broadcast!</title>
+    <desc lang="en">NA</desc>
+  </programme>
+  <programme start="20220707171400 +0000" stop="20220707171900 +0000" channel="AGRtv.play.nezlabs.ml">
+    <title lang="en">(Hopefully) The Most Accurate Nintendo Startup History</title>
+    <desc lang="en">This is most accurate startup ever.</desc>
+  </programme>
+  <programme start="20220707171900 +0000" stop="20220707172000 +0000" channel="AGRtv.play.nezlabs.ml">
+    <title lang="en">AGR Trailer</title>
+    <desc lang="en">Welcome to my channel! Full of memes and stuff! (Inspired by the Windows 98 ad)</desc>
   </programme>
   <programme start="20220707172000 +0000" stop="20220707173000 +0000" channel="AGRtv.play.nezlabs.ml">
     <title lang="en">(OUTDATED) How to set up EKA2L1 + Gameplay (Symbian on Android, PC, Linux and macOS!)</title>
     <desc lang="en">Hello guys, and I'm gonna teach you how to set up EKA2L1. Let's go!</desc>
   </programme>
   <programme start="20220707173000 +0000" stop="20220707173100 +0000" channel="AGRtv.play.nezlabs.ml">
+    <title lang="en">Welcome to the test broadcast!</title>
+    <desc lang="en">NA</desc>
+  </programme>
+  <programme start="20220707173100 +0000" stop="20220707174100 +0000" channel="AGRtv.play.nezlabs.ml">
+    <title lang="en">(OUTDATED) How to set up EKA2L1 + Gameplay (Symbian on Android, PC, Linux and macOS!)</title>
+    <desc lang="en">Hello guys, and I'm gonna teach you how to set up EKA2L1. Let's go!</desc>
+  </programme>
+  <programme start="20220707174100 +0000" stop="20220707174900 +0000" channel="AGRtv.play.nezlabs.ml">
+    <title lang="en">[bad YTP] Steve Balmer tries to sell T-Bone's IBM PC</title>
+    <desc lang="en">Windows everybody?</desc>
+  </programme>
+  <programme start="20220707174900 +0000" stop="20220707175400 +0000" channel="AGRtv.play.nezlabs.ml">
+    <title lang="en">(Hopefully) The Most Accurate Nintendo Startup History</title>
+    <desc lang="en">This is most accurate startup ever.</desc>
+  </programme>
+  <programme start="20220707175400 +0000" stop="20220707175500 +0000" channel="AGRtv.play.nezlabs.ml">
     <title lang="en">AGR Trailer</title>
     <desc lang="en">Welcome to my channel! Full of memes and stuff! (Inspired by the Windows 98 ad)</desc>
   </programme>
-  <programme start="20220707173100 +0000" stop="20220707173900 +0000" channel="AGRtv.play.nezlabs.ml">
-    <title lang="en">[bad YTP] Steve Balmer tries to sell T-Bone's IBM PC</title>
-    <desc lang="en">Windows everybody?</desc>
-  </programme>
-  <programme start="20220707173900 +0000" stop="20220707174900 +0000" channel="AGRtv.play.nezlabs.ml">
+  <programme start="20220707175500 +0000" stop="20220707180500 +0000" channel="AGRtv.play.nezlabs.ml">
     <title lang="en">(OUTDATED) How to set up EKA2L1 + Gameplay (Symbian on Android, PC, Linux and macOS!)</title>
     <desc lang="en">Hello guys, and I'm gonna teach you how to set up EKA2L1. Let's go!</desc>
   </programme>
-  <programme start="20220707174900 +0000" stop="20220707175000 +0000" channel="AGRtv.play.nezlabs.ml">
-    <title lang="en">Welcome to the test broadcast!</title>
-    <desc lang="en">NA</desc>
-  </programme>
-  <programme start="20220707175000 +0000" stop="20220707175500 +0000" channel="AGRtv.play.nezlabs.ml">
-    <title lang="en">(Hopefully) The Most Accurate Nintendo Startup History</title>
-    <desc lang="en">This is most accurate startup ever.</desc>
-  </programme>
-  <programme start="20220707175500 +0000" stop="20220707180300 +0000" channel="AGRtv.play.nezlabs.ml">
-    <title lang="en">[bad YTP] Steve Balmer tries to sell T-Bone's IBM PC</title>
-    <desc lang="en">Windows everybody?</desc>
-  </programme>
-  <programme start="20220707180300 +0000" stop="20220707181300 +0000" channel="AGRtv.play.nezlabs.ml">
-    <title lang="en">(OUTDATED) How to set up EKA2L1 + Gameplay (Symbian on Android, PC, Linux and macOS!)</title>
-    <desc lang="en">Hello guys, and I'm gonna teach you how to set up EKA2L1. Let's go!</desc>
-  </programme>
-  <programme start="20220707181300 +0000" stop="20220707181800 +0000" channel="AGRtv.play.nezlabs.ml">
-    <title lang="en">(Hopefully) The Most Accurate Nintendo Startup History</title>
-    <desc lang="en">This is most accurate startup ever.</desc>
-  </programme>
-  <programme start="20220707181800 +0000" stop="20220707181900 +0000" channel="AGRtv.play.nezlabs.ml">
+  <programme start="20220707180500 +0000" stop="20220707180600 +0000" channel="AGRtv.play.nezlabs.ml">
     <title lang="en">AGR Trailer</title>
     <desc lang="en">Welcome to my channel! Full of memes and stuff! (Inspired by the Windows 98 ad)</desc>
   </programme>
-  <programme start="20220707181900 +0000" stop="20220707182000 +0000" channel="AGRtv.play.nezlabs.ml">
+  <programme start="20220707180600 +0000" stop="20220707180700 +0000" channel="AGRtv.play.nezlabs.ml">
     <title lang="en">Welcome to the test broadcast!</title>
     <desc lang="en">NA</desc>
   </programme>
-  <programme start="20220707182000 +0000" stop="20220707182800 +0000" channel="AGRtv.play.nezlabs.ml">
+  <programme start="20220707180700 +0000" stop="20220707181500 +0000" channel="AGRtv.play.nezlabs.ml">
     <title lang="en">[bad YTP] Steve Balmer tries to sell T-Bone's IBM PC</title>
     <desc lang="en">Windows everybody?</desc>
   </programme>
-  <programme start="20220707182800 +0000" stop="20220707182900 +0000" channel="AGRtv.play.nezlabs.ml">
-    <title lang="en">Welcome to the test broadcast!</title>
-    <desc lang="en">NA</desc>
-  </programme>
-  <programme start="20220707182900 +0000" stop="20220707183400 +0000" channel="AGRtv.play.nezlabs.ml">
+  <programme start="20220707181500 +0000" stop="20220707182000 +0000" channel="AGRtv.play.nezlabs.ml">
     <title lang="en">(Hopefully) The Most Accurate Nintendo Startup History</title>
     <desc lang="en">This is most accurate startup ever.</desc>
   </programme>
-  <programme start="20220707183400 +0000" stop="20220707184400 +0000" channel="AGRtv.play.nezlabs.ml">
+  <programme start="20220707182000 +0000" stop="20220707182100 +0000" channel="AGRtv.play.nezlabs.ml">
+    <title lang="en">Welcome to the test broadcast!</title>
+    <desc lang="en">NA</desc>
+  </programme>
+  <programme start="20220707182100 +0000" stop="20220707182900 +0000" channel="AGRtv.play.nezlabs.ml">
+    <title lang="en">[bad YTP] Steve Balmer tries to sell T-Bone's IBM PC</title>
+    <desc lang="en">Windows everybody?</desc>
+  </programme>
+  <programme start="20220707182900 +0000" stop="20220707183900 +0000" channel="AGRtv.play.nezlabs.ml">
     <title lang="en">(OUTDATED) How to set up EKA2L1 + Gameplay (Symbian on Android, PC, Linux and macOS!)</title>
     <desc lang="en">Hello guys, and I'm gonna teach you how to set up EKA2L1. Let's go!</desc>
+  </programme>
+  <programme start="20220707183900 +0000" stop="20220707184400 +0000" channel="AGRtv.play.nezlabs.ml">
+    <title lang="en">(Hopefully) The Most Accurate Nintendo Startup History</title>
+    <desc lang="en">This is most accurate startup ever.</desc>
   </programme>
   <programme start="20220707184400 +0000" stop="20220707184500 +0000" channel="AGRtv.play.nezlabs.ml">
     <title lang="en">AGR Trailer</title>
     <desc lang="en">Welcome to my channel! Full of memes and stuff! (Inspired by the Windows 98 ad)</desc>
   </programme>
-  <programme start="20220707184500 +0000" stop="20220707185500 +0000" channel="AGRtv.play.nezlabs.ml">
+  <programme start="20220707184500 +0000" stop="20220707185000 +0000" channel="AGRtv.play.nezlabs.ml">
+    <title lang="en">(Hopefully) The Most Accurate Nintendo Startup History</title>
+    <desc lang="en">This is most accurate startup ever.</desc>
+  </programme>
+  <programme start="20220707185000 +0000" stop="20220707190000 +0000" channel="AGRtv.play.nezlabs.ml">
     <title lang="en">(OUTDATED) How to set up EKA2L1 + Gameplay (Symbian on Android, PC, Linux and macOS!)</title>
     <desc lang="en">Hello guys, and I'm gonna teach you how to set up EKA2L1. Let's go!</desc>
   </programme>
-  <programme start="20220707185500 +0000" stop="20220707185600 +0000" channel="AGRtv.play.nezlabs.ml">
-    <title lang="en">AGR Trailer</title>
-    <desc lang="en">Welcome to my channel! Full of memes and stuff! (Inspired by the Windows 98 ad)</desc>
-  </programme>
-  <programme start="20220707185600 +0000" stop="20220707185700 +0000" channel="AGRtv.play.nezlabs.ml">
-    <title lang="en">Welcome to the test broadcast!</title>
-    <desc lang="en">NA</desc>
-  </programme>
-  <programme start="20220707185700 +0000" stop="20220707190200 +0000" channel="AGRtv.play.nezlabs.ml">
-    <title lang="en">(Hopefully) The Most Accurate Nintendo Startup History</title>
-    <desc lang="en">This is most accurate startup ever.</desc>
-  </programme>
-  <programme start="20220707190200 +0000" stop="20220707191000 +0000" channel="AGRtv.play.nezlabs.ml">
+  <programme start="20220707190000 +0000" stop="20220707190800 +0000" channel="AGRtv.play.nezlabs.ml">
     <title lang="en">[bad YTP] Steve Balmer tries to sell T-Bone's IBM PC</title>
     <desc lang="en">Windows everybody?</desc>
   </programme>
-  <programme start="20220707191000 +0000" stop="20220707192000 +0000" channel="AGRtv.play.nezlabs.ml">
+  <programme start="20220707190800 +0000" stop="20220707190900 +0000" channel="AGRtv.play.nezlabs.ml">
+    <title lang="en">Welcome to the test broadcast!</title>
+    <desc lang="en">NA</desc>
+  </programme>
+  <programme start="20220707190900 +0000" stop="20220707191000 +0000" channel="AGRtv.play.nezlabs.ml">
+    <title lang="en">AGR Trailer</title>
+    <desc lang="en">Welcome to my channel! Full of memes and stuff! (Inspired by the Windows 98 ad)</desc>
+  </programme>
+  <programme start="20220707191000 +0000" stop="20220707191800 +0000" channel="AGRtv.play.nezlabs.ml">
+    <title lang="en">[bad YTP] Steve Balmer tries to sell T-Bone's IBM PC</title>
+    <desc lang="en">Windows everybody?</desc>
+  </programme>
+  <programme start="20220707191800 +0000" stop="20220707191900 +0000" channel="AGRtv.play.nezlabs.ml">
+    <title lang="en">Welcome to the test broadcast!</title>
+    <desc lang="en">NA</desc>
+  </programme>
+  <programme start="20220707191900 +0000" stop="20220707192000 +0000" channel="AGRtv.play.nezlabs.ml">
+    <title lang="en">AGR Trailer</title>
+    <desc lang="en">Welcome to my channel! Full of memes and stuff! (Inspired by the Windows 98 ad)</desc>
+  </programme>
+  <programme start="20220707192000 +0000" stop="20220707192500 +0000" channel="AGRtv.play.nezlabs.ml">
+    <title lang="en">(Hopefully) The Most Accurate Nintendo Startup History</title>
+    <desc lang="en">This is most accurate startup ever.</desc>
+  </programme>
+  <programme start="20220707192500 +0000" stop="20220707193500 +0000" channel="AGRtv.play.nezlabs.ml">
     <title lang="en">(OUTDATED) How to set up EKA2L1 + Gameplay (Symbian on Android, PC, Linux and macOS!)</title>
     <desc lang="en">Hello guys, and I'm gonna teach you how to set up EKA2L1. Let's go!</desc>
   </programme>
-  <programme start="20220707192000 +0000" stop="20220707192100 +0000" channel="AGRtv.play.nezlabs.ml">
-    <title lang="en">Welcome to the test broadcast!</title>
-    <desc lang="en">NA</desc>
-  </programme>
-  <programme start="20220707192100 +0000" stop="20220707192200 +0000" channel="AGRtv.play.nezlabs.ml">
-    <title lang="en">AGR Trailer</title>
-    <desc lang="en">Welcome to my channel! Full of memes and stuff! (Inspired by the Windows 98 ad)</desc>
-  </programme>
-  <programme start="20220707192200 +0000" stop="20220707193000 +0000" channel="AGRtv.play.nezlabs.ml">
-    <title lang="en">[bad YTP] Steve Balmer tries to sell T-Bone's IBM PC</title>
-    <desc lang="en">Windows everybody?</desc>
-  </programme>
-  <programme start="20220707193000 +0000" stop="20220707193500 +0000" channel="AGRtv.play.nezlabs.ml">
+  <programme start="20220707193500 +0000" stop="20220707194000 +0000" channel="AGRtv.play.nezlabs.ml">
     <title lang="en">(Hopefully) The Most Accurate Nintendo Startup History</title>
     <desc lang="en">This is most accurate startup ever.</desc>
   </programme>
-  <programme start="20220707193500 +0000" stop="20220707193600 +0000" channel="AGRtv.play.nezlabs.ml">
-    <title lang="en">Welcome to the test broadcast!</title>
-    <desc lang="en">NA</desc>
-  </programme>
-  <programme start="20220707193600 +0000" stop="20220707193700 +0000" channel="AGRtv.play.nezlabs.ml">
-    <title lang="en">AGR Trailer</title>
-    <desc lang="en">Welcome to my channel! Full of memes and stuff! (Inspired by the Windows 98 ad)</desc>
-  </programme>
-  <programme start="20220707193700 +0000" stop="20220707194500 +0000" channel="AGRtv.play.nezlabs.ml">
+  <programme start="20220707194000 +0000" stop="20220707194800 +0000" channel="AGRtv.play.nezlabs.ml">
     <title lang="en">[bad YTP] Steve Balmer tries to sell T-Bone's IBM PC</title>
     <desc lang="en">Windows everybody?</desc>
   </programme>
-  <programme start="20220707194500 +0000" stop="20220707195000 +0000" channel="AGRtv.play.nezlabs.ml">
-    <title lang="en">(Hopefully) The Most Accurate Nintendo Startup History</title>
-    <desc lang="en">This is most accurate startup ever.</desc>
+  <programme start="20220707194800 +0000" stop="20220707194900 +0000" channel="AGRtv.play.nezlabs.ml">
+    <title lang="en">AGR Trailer</title>
+    <desc lang="en">Welcome to my channel! Full of memes and stuff! (Inspired by the Windows 98 ad)</desc>
+  </programme>
+  <programme start="20220707194900 +0000" stop="20220707195000 +0000" channel="AGRtv.play.nezlabs.ml">
+    <title lang="en">Welcome to the test broadcast!</title>
+    <desc lang="en">NA</desc>
   </programme>
   <programme start="20220707195000 +0000" stop="20220707200000 +0000" channel="AGRtv.play.nezlabs.ml">
     <title lang="en">(OUTDATED) How to set up EKA2L1 + Gameplay (Symbian on Android, PC, Linux and macOS!)</title>
     <desc lang="en">Hello guys, and I'm gonna teach you how to set up EKA2L1. Let's go!</desc>
   </programme>
-  <programme start="20220707200000 +0000" stop="20220707200800 +0000" channel="AGRtv.play.nezlabs.ml">
-    <title lang="en">[bad YTP] Steve Balmer tries to sell T-Bone's IBM PC</title>
-    <desc lang="en">Windows everybody?</desc>
-  </programme>
-  <programme start="20220707200800 +0000" stop="20220707201300 +0000" channel="AGRtv.play.nezlabs.ml">
+  <programme start="20220707200000 +0000" stop="20220707200500 +0000" channel="AGRtv.play.nezlabs.ml">
     <title lang="en">(Hopefully) The Most Accurate Nintendo Startup History</title>
     <desc lang="en">This is most accurate startup ever.</desc>
   </programme>
-  <programme start="20220707201300 +0000" stop="20220707202300 +0000" channel="AGRtv.play.nezlabs.ml">
+  <programme start="20220707200500 +0000" stop="20220707200600 +0000" channel="AGRtv.play.nezlabs.ml">
+    <title lang="en">AGR Trailer</title>
+    <desc lang="en">Welcome to my channel! Full of memes and stuff! (Inspired by the Windows 98 ad)</desc>
+  </programme>
+  <programme start="20220707200600 +0000" stop="20220707201600 +0000" channel="AGRtv.play.nezlabs.ml">
     <title lang="en">(OUTDATED) How to set up EKA2L1 + Gameplay (Symbian on Android, PC, Linux and macOS!)</title>
     <desc lang="en">Hello guys, and I'm gonna teach you how to set up EKA2L1. Let's go!</desc>
   </programme>
-  <programme start="20220707202300 +0000" stop="20220707202400 +0000" channel="AGRtv.play.nezlabs.ml">
+  <programme start="20220707201600 +0000" stop="20220707201700 +0000" channel="AGRtv.play.nezlabs.ml">
     <title lang="en">Welcome to the test broadcast!</title>
     <desc lang="en">NA</desc>
   </programme>
-  <programme start="20220707202400 +0000" stop="20220707202500 +0000" channel="AGRtv.play.nezlabs.ml">
-    <title lang="en">AGR Trailer</title>
-    <desc lang="en">Welcome to my channel! Full of memes and stuff! (Inspired by the Windows 98 ad)</desc>
+  <programme start="20220707201700 +0000" stop="20220707202500 +0000" channel="AGRtv.play.nezlabs.ml">
+    <title lang="en">[bad YTP] Steve Balmer tries to sell T-Bone's IBM PC</title>
+    <desc lang="en">Windows everybody?</desc>
   </programme>
   <programme start="20220707202500 +0000" stop="20220707203000 +0000" channel="AGRtv.play.nezlabs.ml">
     <title lang="en">(Hopefully) The Most Accurate Nintendo Startup History</title>
     <desc lang="en">This is most accurate startup ever.</desc>
   </programme>
-  <programme start="20220707203000 +0000" stop="20220707204000 +0000" channel="AGRtv.play.nezlabs.ml">
-    <title lang="en">(OUTDATED) How to set up EKA2L1 + Gameplay (Symbian on Android, PC, Linux and macOS!)</title>
-    <desc lang="en">Hello guys, and I'm gonna teach you how to set up EKA2L1. Let's go!</desc>
-  </programme>
-  <programme start="20220707204000 +0000" stop="20220707204800 +0000" channel="AGRtv.play.nezlabs.ml">
-    <title lang="en">[bad YTP] Steve Balmer tries to sell T-Bone's IBM PC</title>
-    <desc lang="en">Windows everybody?</desc>
-  </programme>
-  <programme start="20220707204800 +0000" stop="20220707204900 +0000" channel="AGRtv.play.nezlabs.ml">
+  <programme start="20220707203000 +0000" stop="20220707203100 +0000" channel="AGRtv.play.nezlabs.ml">
     <title lang="en">AGR Trailer</title>
     <desc lang="en">Welcome to my channel! Full of memes and stuff! (Inspired by the Windows 98 ad)</desc>
   </programme>
-  <programme start="20220707204900 +0000" stop="20220707205000 +0000" channel="AGRtv.play.nezlabs.ml">
+  <programme start="20220707203100 +0000" stop="20220707203200 +0000" channel="AGRtv.play.nezlabs.ml">
     <title lang="en">Welcome to the test broadcast!</title>
     <desc lang="en">NA</desc>
+  </programme>
+  <programme start="20220707203200 +0000" stop="20220707204000 +0000" channel="AGRtv.play.nezlabs.ml">
+    <title lang="en">[bad YTP] Steve Balmer tries to sell T-Bone's IBM PC</title>
+    <desc lang="en">Windows everybody?</desc>
+  </programme>
+  <programme start="20220707204000 +0000" stop="20220707205000 +0000" channel="AGRtv.play.nezlabs.ml">
+    <title lang="en">(OUTDATED) How to set up EKA2L1 + Gameplay (Symbian on Android, PC, Linux and macOS!)</title>
+    <desc lang="en">Hello guys, and I'm gonna teach you how to set up EKA2L1. Let's go!</desc>
   </programme>
   <programme start="20220707205000 +0000" stop="20220707205100 +0000" channel="AGRtv.play.nezlabs.ml">
-    <title lang="en">AGR Trailer</title>
-    <desc lang="en">Welcome to my channel! Full of memes and stuff! (Inspired by the Windows 98 ad)</desc>
-  </programme>
-  <programme start="20220707205100 +0000" stop="20220707210100 +0000" channel="AGRtv.play.nezlabs.ml">
-    <title lang="en">(OUTDATED) How to set up EKA2L1 + Gameplay (Symbian on Android, PC, Linux and macOS!)</title>
-    <desc lang="en">Hello guys, and I'm gonna teach you how to set up EKA2L1. Let's go!</desc>
-  </programme>
-  <programme start="20220707210100 +0000" stop="20220707210900 +0000" channel="AGRtv.play.nezlabs.ml">
-    <title lang="en">[bad YTP] Steve Balmer tries to sell T-Bone's IBM PC</title>
-    <desc lang="en">Windows everybody?</desc>
-  </programme>
-  <programme start="20220707210900 +0000" stop="20220707211400 +0000" channel="AGRtv.play.nezlabs.ml">
-    <title lang="en">(Hopefully) The Most Accurate Nintendo Startup History</title>
-    <desc lang="en">This is most accurate startup ever.</desc>
-  </programme>
-  <programme start="20220707211400 +0000" stop="20220707211500 +0000" channel="AGRtv.play.nezlabs.ml">
     <title lang="en">Welcome to the test broadcast!</title>
     <desc lang="en">NA</desc>
   </programme>
-  <programme start="20220707211500 +0000" stop="20220707211600 +0000" channel="AGRtv.play.nezlabs.ml">
-    <title lang="en">AGR Trailer</title>
-    <desc lang="en">Welcome to my channel! Full of memes and stuff! (Inspired by the Windows 98 ad)</desc>
-  </programme>
-  <programme start="20220707211600 +0000" stop="20220707212100 +0000" channel="AGRtv.play.nezlabs.ml">
-    <title lang="en">(Hopefully) The Most Accurate Nintendo Startup History</title>
-    <desc lang="en">This is most accurate startup ever.</desc>
-  </programme>
-  <programme start="20220707212100 +0000" stop="20220707212900 +0000" channel="AGRtv.play.nezlabs.ml">
+  <programme start="20220707205100 +0000" stop="20220707205900 +0000" channel="AGRtv.play.nezlabs.ml">
     <title lang="en">[bad YTP] Steve Balmer tries to sell T-Bone's IBM PC</title>
     <desc lang="en">Windows everybody?</desc>
   </programme>
-  <programme start="20220707212900 +0000" stop="20220707213000 +0000" channel="AGRtv.play.nezlabs.ml">
+  <programme start="20220707205900 +0000" stop="20220707210400 +0000" channel="AGRtv.play.nezlabs.ml">
+    <title lang="en">(Hopefully) The Most Accurate Nintendo Startup History</title>
+    <desc lang="en">This is most accurate startup ever.</desc>
+  </programme>
+  <programme start="20220707210400 +0000" stop="20220707210500 +0000" channel="AGRtv.play.nezlabs.ml">
+    <title lang="en">AGR Trailer</title>
+    <desc lang="en">Welcome to my channel! Full of memes and stuff! (Inspired by the Windows 98 ad)</desc>
+  </programme>
+  <programme start="20220707210500 +0000" stop="20220707211500 +0000" channel="AGRtv.play.nezlabs.ml">
+    <title lang="en">(OUTDATED) How to set up EKA2L1 + Gameplay (Symbian on Android, PC, Linux and macOS!)</title>
+    <desc lang="en">Hello guys, and I'm gonna teach you how to set up EKA2L1. Let's go!</desc>
+  </programme>
+  <programme start="20220707211500 +0000" stop="20220707212300 +0000" channel="AGRtv.play.nezlabs.ml">
+    <title lang="en">[bad YTP] Steve Balmer tries to sell T-Bone's IBM PC</title>
+    <desc lang="en">Windows everybody?</desc>
+  </programme>
+  <programme start="20220707212300 +0000" stop="20220707213300 +0000" channel="AGRtv.play.nezlabs.ml">
+    <title lang="en">(OUTDATED) How to set up EKA2L1 + Gameplay (Symbian on Android, PC, Linux and macOS!)</title>
+    <desc lang="en">Hello guys, and I'm gonna teach you how to set up EKA2L1. Let's go!</desc>
+  </programme>
+  <programme start="20220707213300 +0000" stop="20220707213400 +0000" channel="AGRtv.play.nezlabs.ml">
+    <title lang="en">AGR Trailer</title>
+    <desc lang="en">Welcome to my channel! Full of memes and stuff! (Inspired by the Windows 98 ad)</desc>
+  </programme>
+  <programme start="20220707213400 +0000" stop="20220707213500 +0000" channel="AGRtv.play.nezlabs.ml">
     <title lang="en">Welcome to the test broadcast!</title>
     <desc lang="en">NA</desc>
   </programme>
-  <programme start="20220707213000 +0000" stop="20220707214000 +0000" channel="AGRtv.play.nezlabs.ml">
-    <title lang="en">(OUTDATED) How to set up EKA2L1 + Gameplay (Symbian on Android, PC, Linux and macOS!)</title>
-    <desc lang="en">Hello guys, and I'm gonna teach you how to set up EKA2L1. Let's go!</desc>
+  <programme start="20220707213500 +0000" stop="20220707214000 +0000" channel="AGRtv.play.nezlabs.ml">
+    <title lang="en">(Hopefully) The Most Accurate Nintendo Startup History</title>
+    <desc lang="en">This is most accurate startup ever.</desc>
   </programme>
   <programme start="20220707214000 +0000" stop="20220707214100 +0000" channel="AGRtv.play.nezlabs.ml">
     <title lang="en">AGR Trailer</title>
     <desc lang="en">Welcome to my channel! Full of memes and stuff! (Inspired by the Windows 98 ad)</desc>
   </programme>
-  <programme start="20220707214100 +0000" stop="20220707214600 +0000" channel="AGRtv.play.nezlabs.ml">
-    <title lang="en">(Hopefully) The Most Accurate Nintendo Startup History</title>
-    <desc lang="en">This is most accurate startup ever.</desc>
-  </programme>
-  <programme start="20220707214600 +0000" stop="20220707215400 +0000" channel="AGRtv.play.nezlabs.ml">
+  <programme start="20220707214100 +0000" stop="20220707214900 +0000" channel="AGRtv.play.nezlabs.ml">
     <title lang="en">[bad YTP] Steve Balmer tries to sell T-Bone's IBM PC</title>
     <desc lang="en">Windows everybody?</desc>
   </programme>
-  <programme start="20220707215400 +0000" stop="20220707215500 +0000" channel="AGRtv.play.nezlabs.ml">
-    <title lang="en">Welcome to the test broadcast!</title>
-    <desc lang="en">NA</desc>
-  </programme>
-  <programme start="20220707215500 +0000" stop="20220707220500 +0000" channel="AGRtv.play.nezlabs.ml">
+  <programme start="20220707214900 +0000" stop="20220707215900 +0000" channel="AGRtv.play.nezlabs.ml">
     <title lang="en">(OUTDATED) How to set up EKA2L1 + Gameplay (Symbian on Android, PC, Linux and macOS!)</title>
     <desc lang="en">Hello guys, and I'm gonna teach you how to set up EKA2L1. Let's go!</desc>
   </programme>
-  <programme start="20220707220500 +0000" stop="20220707220600 +0000" channel="AGRtv.play.nezlabs.ml">
+  <programme start="20220707215900 +0000" stop="20220707220400 +0000" channel="AGRtv.play.nezlabs.ml">
+    <title lang="en">(Hopefully) The Most Accurate Nintendo Startup History</title>
+    <desc lang="en">This is most accurate startup ever.</desc>
+  </programme>
+  <programme start="20220707220400 +0000" stop="20220707220500 +0000" channel="AGRtv.play.nezlabs.ml">
+    <title lang="en">Welcome to the test broadcast!</title>
+    <desc lang="en">NA</desc>
+  </programme>
+  <programme start="20220707220500 +0000" stop="20220707221500 +0000" channel="AGRtv.play.nezlabs.ml">
+    <title lang="en">(OUTDATED) How to set up EKA2L1 + Gameplay (Symbian on Android, PC, Linux and macOS!)</title>
+    <desc lang="en">Hello guys, and I'm gonna teach you how to set up EKA2L1. Let's go!</desc>
+  </programme>
+  <programme start="20220707221500 +0000" stop="20220707221600 +0000" channel="AGRtv.play.nezlabs.ml">
+    <title lang="en">Welcome to the test broadcast!</title>
+    <desc lang="en">NA</desc>
+  </programme>
+  <programme start="20220707221600 +0000" stop="20220707221700 +0000" channel="AGRtv.play.nezlabs.ml">
     <title lang="en">AGR Trailer</title>
     <desc lang="en">Welcome to my channel! Full of memes and stuff! (Inspired by the Windows 98 ad)</desc>
   </programme>
-  <programme start="20220707220600 +0000" stop="20220707220700 +0000" channel="AGRtv.play.nezlabs.ml">
-    <title lang="en">Welcome to the test broadcast!</title>
-    <desc lang="en">NA</desc>
+  <programme start="20220707221700 +0000" stop="20220707222200 +0000" channel="AGRtv.play.nezlabs.ml">
+    <title lang="en">(Hopefully) The Most Accurate Nintendo Startup History</title>
+    <desc lang="en">This is most accurate startup ever.</desc>
   </programme>
-  <programme start="20220707220700 +0000" stop="20220707221700 +0000" channel="AGRtv.play.nezlabs.ml">
-    <title lang="en">(OUTDATED) How to set up EKA2L1 + Gameplay (Symbian on Android, PC, Linux and macOS!)</title>
-    <desc lang="en">Hello guys, and I'm gonna teach you how to set up EKA2L1. Let's go!</desc>
-  </programme>
-  <programme start="20220707221700 +0000" stop="20220707222500 +0000" channel="AGRtv.play.nezlabs.ml">
+  <programme start="20220707222200 +0000" stop="20220707223000 +0000" channel="AGRtv.play.nezlabs.ml">
     <title lang="en">[bad YTP] Steve Balmer tries to sell T-Bone's IBM PC</title>
     <desc lang="en">Windows everybody?</desc>
   </programme>
-  <programme start="20220707222500 +0000" stop="20220707223000 +0000" channel="AGRtv.play.nezlabs.ml">
+  <programme start="20220707223000 +0000" stop="20220707223100 +0000" channel="AGRtv.play.nezlabs.ml">
+    <title lang="en">Welcome to the test broadcast!</title>
+    <desc lang="en">NA</desc>
+  </programme>
+  <programme start="20220707223100 +0000" stop="20220707223600 +0000" channel="AGRtv.play.nezlabs.ml">
     <title lang="en">(Hopefully) The Most Accurate Nintendo Startup History</title>
     <desc lang="en">This is most accurate startup ever.</desc>
-  </programme>
-  <programme start="20220707223000 +0000" stop="20220707223500 +0000" channel="AGRtv.play.nezlabs.ml">
-    <title lang="en">(Hopefully) The Most Accurate Nintendo Startup History</title>
-    <desc lang="en">This is most accurate startup ever.</desc>
-  </programme>
-  <programme start="20220707223500 +0000" stop="20220707223600 +0000" channel="AGRtv.play.nezlabs.ml">
-    <title lang="en">AGR Trailer</title>
-    <desc lang="en">Welcome to my channel! Full of memes and stuff! (Inspired by the Windows 98 ad)</desc>
   </programme>
   <programme start="20220707223600 +0000" stop="20220707223700 +0000" channel="AGRtv.play.nezlabs.ml">
-    <title lang="en">Welcome to the test broadcast!</title>
-    <desc lang="en">NA</desc>
-  </programme>
-  <programme start="20220707223700 +0000" stop="20220707224700 +0000" channel="AGRtv.play.nezlabs.ml">
-    <title lang="en">(OUTDATED) How to set up EKA2L1 + Gameplay (Symbian on Android, PC, Linux and macOS!)</title>
-    <desc lang="en">Hello guys, and I'm gonna teach you how to set up EKA2L1. Let's go!</desc>
-  </programme>
-  <programme start="20220707224700 +0000" stop="20220707225500 +0000" channel="AGRtv.play.nezlabs.ml">
-    <title lang="en">[bad YTP] Steve Balmer tries to sell T-Bone's IBM PC</title>
-    <desc lang="en">Windows everybody?</desc>
-  </programme>
-  <programme start="20220707225500 +0000" stop="20220707230300 +0000" channel="AGRtv.play.nezlabs.ml">
-    <title lang="en">[bad YTP] Steve Balmer tries to sell T-Bone's IBM PC</title>
-    <desc lang="en">Windows everybody?</desc>
-  </programme>
-  <programme start="20220707230300 +0000" stop="20220707231300 +0000" channel="AGRtv.play.nezlabs.ml">
-    <title lang="en">(OUTDATED) How to set up EKA2L1 + Gameplay (Symbian on Android, PC, Linux and macOS!)</title>
-    <desc lang="en">Hello guys, and I'm gonna teach you how to set up EKA2L1. Let's go!</desc>
-  </programme>
-  <programme start="20220707231300 +0000" stop="20220707231400 +0000" channel="AGRtv.play.nezlabs.ml">
     <title lang="en">AGR Trailer</title>
     <desc lang="en">Welcome to my channel! Full of memes and stuff! (Inspired by the Windows 98 ad)</desc>
   </programme>
-  <programme start="20220707231400 +0000" stop="20220707231900 +0000" channel="AGRtv.play.nezlabs.ml">
-    <title lang="en">(Hopefully) The Most Accurate Nintendo Startup History</title>
-    <desc lang="en">This is most accurate startup ever.</desc>
+  <programme start="20220707223700 +0000" stop="20220707224500 +0000" channel="AGRtv.play.nezlabs.ml">
+    <title lang="en">[bad YTP] Steve Balmer tries to sell T-Bone's IBM PC</title>
+    <desc lang="en">Windows everybody?</desc>
   </programme>
-  <programme start="20220707231900 +0000" stop="20220707232000 +0000" channel="AGRtv.play.nezlabs.ml">
-    <title lang="en">Welcome to the test broadcast!</title>
-    <desc lang="en">NA</desc>
-  </programme>
-  <programme start="20220707232000 +0000" stop="20220707232100 +0000" channel="AGRtv.play.nezlabs.ml">
-    <title lang="en">Welcome to the test broadcast!</title>
-    <desc lang="en">NA</desc>
-  </programme>
-  <programme start="20220707232100 +0000" stop="20220707232200 +0000" channel="AGRtv.play.nezlabs.ml">
-    <title lang="en">AGR Trailer</title>
-    <desc lang="en">Welcome to my channel! Full of memes and stuff! (Inspired by the Windows 98 ad)</desc>
-  </programme>
-  <programme start="20220707232200 +0000" stop="20220707232700 +0000" channel="AGRtv.play.nezlabs.ml">
-    <title lang="en">(Hopefully) The Most Accurate Nintendo Startup History</title>
-    <desc lang="en">This is most accurate startup ever.</desc>
-  </programme>
-  <programme start="20220707232700 +0000" stop="20220707233700 +0000" channel="AGRtv.play.nezlabs.ml">
+  <programme start="20220707224500 +0000" stop="20220707225500 +0000" channel="AGRtv.play.nezlabs.ml">
     <title lang="en">(OUTDATED) How to set up EKA2L1 + Gameplay (Symbian on Android, PC, Linux and macOS!)</title>
     <desc lang="en">Hello guys, and I'm gonna teach you how to set up EKA2L1. Let's go!</desc>
   </programme>
-  <programme start="20220707233700 +0000" stop="20220707234500 +0000" channel="AGRtv.play.nezlabs.ml">
+  <programme start="20220707225500 +0000" stop="20220707225600 +0000" channel="AGRtv.play.nezlabs.ml">
+    <title lang="en">Welcome to the test broadcast!</title>
+    <desc lang="en">NA</desc>
+  </programme>
+  <programme start="20220707225600 +0000" stop="20220707230100 +0000" channel="AGRtv.play.nezlabs.ml">
+    <title lang="en">(Hopefully) The Most Accurate Nintendo Startup History</title>
+    <desc lang="en">This is most accurate startup ever.</desc>
+  </programme>
+  <programme start="20220707230100 +0000" stop="20220707230900 +0000" channel="AGRtv.play.nezlabs.ml">
     <title lang="en">[bad YTP] Steve Balmer tries to sell T-Bone's IBM PC</title>
     <desc lang="en">Windows everybody?</desc>
+  </programme>
+  <programme start="20220707230900 +0000" stop="20220707231000 +0000" channel="AGRtv.play.nezlabs.ml">
+    <title lang="en">AGR Trailer</title>
+    <desc lang="en">Welcome to my channel! Full of memes and stuff! (Inspired by the Windows 98 ad)</desc>
+  </programme>
+  <programme start="20220707231000 +0000" stop="20220707232000 +0000" channel="AGRtv.play.nezlabs.ml">
+    <title lang="en">(OUTDATED) How to set up EKA2L1 + Gameplay (Symbian on Android, PC, Linux and macOS!)</title>
+    <desc lang="en">Hello guys, and I'm gonna teach you how to set up EKA2L1. Let's go!</desc>
+  </programme>
+  <programme start="20220707232000 +0000" stop="20220707232800 +0000" channel="AGRtv.play.nezlabs.ml">
+    <title lang="en">[bad YTP] Steve Balmer tries to sell T-Bone's IBM PC</title>
+    <desc lang="en">Windows everybody?</desc>
+  </programme>
+  <programme start="20220707232800 +0000" stop="20220707232900 +0000" channel="AGRtv.play.nezlabs.ml">
+    <title lang="en">AGR Trailer</title>
+    <desc lang="en">Welcome to my channel! Full of memes and stuff! (Inspired by the Windows 98 ad)</desc>
+  </programme>
+  <programme start="20220707232900 +0000" stop="20220707233900 +0000" channel="AGRtv.play.nezlabs.ml">
+    <title lang="en">(OUTDATED) How to set up EKA2L1 + Gameplay (Symbian on Android, PC, Linux and macOS!)</title>
+    <desc lang="en">Hello guys, and I'm gonna teach you how to set up EKA2L1. Let's go!</desc>
+  </programme>
+  <programme start="20220707233900 +0000" stop="20220707234000 +0000" channel="AGRtv.play.nezlabs.ml">
+    <title lang="en">Welcome to the test broadcast!</title>
+    <desc lang="en">NA</desc>
+  </programme>
+  <programme start="20220707234000 +0000" stop="20220707234500 +0000" channel="AGRtv.play.nezlabs.ml">
+    <title lang="en">(Hopefully) The Most Accurate Nintendo Startup History</title>
+    <desc lang="en">This is most accurate startup ever.</desc>
   </programme>
   <programme start="20220707234500 +0000" stop="20220707234600 +0000" channel="AGRtv.play.nezlabs.ml">
-    <title lang="en">AGR Trailer</title>
-    <desc lang="en">Welcome to my channel! Full of memes and stuff! (Inspired by the Windows 98 ad)</desc>
+    <title lang="en">Welcome to the test broadcast!</title>
+    <desc lang="en">NA</desc>
   </programme>
-  <programme start="20220707234600 +0000" stop="20220707235400 +0000" channel="AGRtv.play.nezlabs.ml">
-    <title lang="en">[bad YTP] Steve Balmer tries to sell T-Bone's IBM PC</title>
-    <desc lang="en">Windows everybody?</desc>
-  </programme>
-  <programme start="20220707235400 +0000" stop="20220707235900 +0000" channel="AGRtv.play.nezlabs.ml">
+  <programme start="20220707234600 +0000" stop="20220707235100 +0000" channel="AGRtv.play.nezlabs.ml">
     <title lang="en">(Hopefully) The Most Accurate Nintendo Startup History</title>
     <desc lang="en">This is most accurate startup ever.</desc>
   </programme>
