@@ -1,0 +1,5 @@
+#EXTM3U
+#EXTINF:-1 tvg-name="AGRtv test broadcast" tvg-logo="https://nezlabs.github.io/assets/logos/image.png",AGRtv test broadcast
+https://agrtv-hls.damaj.gq/playlist.m3u8
+#EXTINF:-1 tvg-name="AGRtv test broadcast (dev)" tvg-id="AGRtv.play.nezlabs.ml" tvg-logo="https://nezlabs.github.io/assets/logos/image.png",AGRtv test broadcast (dev)
+https://agrtv-hls.dev.damaj.gq/playlist.m3u8
