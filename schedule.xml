@@ -6,10 +6,6 @@
   <channel id="WMSC.play.nezlabs.ml">
     <display-name>WMSC</display-name>
   </channel>
-  <programme start="20220715000000 +0000" stop="20220715000500 +0000" channel="AGRtv.play.nezlabs.ml">
-    <title lang="en">(Hopefully) The Most Accurate Nintendo Startup History</title>
-    <desc lang="en">This is most accurate startup ever.</desc>
-  </programme>
   <programme start="20220715000500 +0000" stop="20220715000600 +0000" channel="AGRtv.play.nezlabs.ml">
     <title lang="en">AGR Trailer</title>
     <desc lang="en">Welcome to my channel! Full of memes and stuff! (Inspired by the Windows 98 ad)</desc>
